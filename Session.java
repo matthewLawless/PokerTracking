@@ -23,10 +23,11 @@ public class Session {
     
     
 
-    //only need to set session owner and allHands, it's more convenient to 
+    //only need to set session owner and allHands, it's more convenient to just init
+    //w date and time
     public Session(){
 
-  
+        
 
     }
 

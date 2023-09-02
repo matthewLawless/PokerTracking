@@ -1,0 +1,115 @@
+Game Hand #1801574193 - Tournament #30230348 - Omaha H/L(Pot Limit) - Level 1 (15.00/30.00)- 2023/07/30 01:03:10 UTC
+Table '90' 8-max Seat #1 is the button
+Seat 1: r1ng0 (3985.00) is sitting out
+Seat 2: ThatGyThreeOne (4015.00) is sitting out
+Seat 3: reinhardt (4180.00)
+Seat 4: pairofpigs (3985.00)
+Seat 5: rudedogg25 (4000.00)
+Seat 6: MrNickSaban (4000.00)
+Seat 7: blackchair (4000.00)
+Seat 8: aces and spaces (4000.00)
+ThatGyThreeOne posts the small blind 15.00
+reinhardt posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to blackchair [9s 6h 4d 8h]
+pairofpigs folds
+rudedogg25 folds
+MrNickSaban folds
+blackchair calls 30.00
+aces and spaces calls 30.00
+r1ng0 folds
+ThatGyThreeOne calls 15.00
+reinhardt checks
+*** FLOP *** [Ts Jd Kh]
+Main pot 120.00
+ThatGyThreeOne checks
+reinhardt bets 90.00
+blackchair folds
+aces and spaces folds
+ThatGyThreeOne calls 90.00
+*** TURN *** [Ts Jd Kh] [Th]
+Main pot 300.00
+ThatGyThreeOne checks
+reinhardt checks
+*** RIVER *** [Ts Jd Kh Th] [3h]
+Main pot 300.00
+ThatGyThreeOne bets 300.00
+reinhardt raises 975.00 to 975.00
+ThatGyThreeOne raises 2925.00 to 3225.00
+reinhardt raises 3085.00 to 4060.00 and is all-in
+ThatGyThreeOne calls 670.00 and is all-in
+Uncalled bet (165.00) returned to reinhardt
+*** SHOW DOWN ***
+Main pot 8090.00
+ThatGyThreeOne shows [Kc 6d Ks 2c] (HI - a full house, Kings full of Tens [Ks Kh Kc Ts Th])
+reinhardt shows [Jc Qd As Tc] (HI - a full house, Tens full of Jacks [Ts Th Tc Jd Jc])
+ThatGyThreeOne collected 8090.00 from main pot
+*** SUMMARY ***
+Total pot 8090.00
+Board [Ts Jd Kh Th 3h]
+Seat 1: r1ng0 (button) folded on the Pre-Flop
+Seat 2: ThatGyThreeOne (small blind) showed [Kc 6d Ks 2c] and won 8090.00 with HI - a full house, Kings full of Tens [Ks Kh Kc Ts Th]
+Seat 3: reinhardt (big blind) showed [Jc Qd As Tc] and lost with HI - a full house, Tens full of Jacks [Ts Th Tc Jd Jc]
+Seat 4: pairofpigs folded on the Pre-Flop and did not bet
+Seat 5: rudedogg25 folded on the Pre-Flop and did not bet
+Seat 6: MrNickSaban folded on the Pre-Flop and did not bet
+Seat 7: blackchair folded on the Flop
+Seat 8: aces and spaces folded on the Flop
+
+Game Hand #1801577289 - Tournament #30230348 - Omaha H/L(Pot Limit) - Level 1 (15.00/30.00)- 2023/07/30 01:05:47 UTC
+Table '19' 8-max Seat #4 is the button
+Seat 1: Juddow (3775.00)
+Seat 2: blackchair (3970.00)
+Seat 3: dipauloFL (7705.00)
+Seat 4: occupant (3955.00) is sitting out
+Seat 5: wahoo13 will be allowed to play after the button
+Seat 6: BudeBlaze (3970.00) is sitting out
+Seat 7: MACHOMAN16 (4000.00) is sitting out
+Seat 8: oldguy46 (628.00)
+BudeBlaze posts the small blind 15.00
+MACHOMAN16 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to blackchair [4d 9d 5h Jc]
+oldguy46 calls 30.00
+Juddow calls 30.00
+blackchair calls 30.00
+dipauloFL raises 195.00 to 195.00
+occupant folds
+BudeBlaze folds
+MACHOMAN16 folds
+oldguy46 calls 165.00
+Juddow calls 165.00
+blackchair calls 165.00
+*** FLOP *** [Kh Js Th]
+Main pot 825.00
+oldguy46 checks
+Juddow checks
+blackchair checks
+dipauloFL bets 825.00
+oldguy46 folds
+Juddow calls 825.00
+blackchair folds
+*** TURN *** [Kh Js Th] [4c]
+Main pot 2475.00
+Juddow checks
+dipauloFL bets 2475.00
+Juddow raises 2755.00 to 2755.00 and is all-in
+dipauloFL calls 280.00
+*** RIVER *** [Kh Js Th 4c] [8s]
+Main pot 7985.00
+*** SHOW DOWN ***
+Main pot 7985.00
+Juddow shows [3h 6c Ah 7d] (HI - a high card, Ace high [Ah Kh Js Th 7d])
+dipauloFL shows [4s Ac Ad 8c] (HI - two pair, Eights and Fours [8s 8c 4s 4c Kh])
+dipauloFL collected 7985.00 from main pot
+*** SUMMARY ***
+Total pot 7985.00
+Board [Kh Js Th 4c 8s]
+Seat 1: Juddow showed [3h 6c Ah 7d] and lost with HI - a high card, Ace high [Ah Kh Js Th 7d]
+Seat 2: blackchair folded on the Flop
+Seat 3: dipauloFL showed [4s Ac Ad 8c] and won 7985.00 with HI - two pair, Eights and Fours [8s 8c 4s 4c Kh]
+Seat 4: occupant (button) folded on the Pre-Flop
+Seat 6: BudeBlaze (small blind) folded on the Pre-Flop
+Seat 7: MACHOMAN16 (big blind) folded on the Pre-Flop
+Seat 8: oldguy46 folded on the Flop
+

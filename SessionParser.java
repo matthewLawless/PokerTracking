@@ -18,7 +18,7 @@ public class SessionParser  {
      * @return
      * @throws FileNotFoundException
      */
-    private Session parseSession(File f) throws FileNotFoundException{
+    public Session parseSession(File f) throws FileNotFoundException{
 
         boolean isCashSession = true;
         Scanner scnr = new Scanner(f);
@@ -49,9 +49,58 @@ public class SessionParser  {
      * @param f
      * @return
      */
-    private CashSession cashSessionParse(File f){
+    public CashSession cashSessionParse(File f) throws FileNotFoundException{
+
+        CashSession c = null;
+
+        ArrayList<Hand> hList = new ArrayList<Hand>();
+        ArrayList<String> handsAsStrings = new ArrayList<String>();
+        //split hands into their own strings
+        Scanner scnr = new Scanner(f);
+        String currentHand = "";
+        while (true){
+
+            
+            String curLine = scnr.nextLine();
+            if (!scnr.hasNextLine()){
+
+                currentHand += curLine;
+                handsAsStrings.add(currentHand);
+                break;
+
+            }
+            else if (curLine.equals("")){
+
+                handsAsStrings.add(currentHand);
+                currentHand = "";
+
+            }
+            else{
+
+                
+                currentHand += curLine;
+                currentHand += "\n";
+            }
+            
 
 
+
+        }
+        
+        //feed them to the hand parser;
+        HandParser hp = new HandParser();
+        for (String s : handsAsStrings){
+
+            hList.add(hp.parseHand(s));
+
+
+        }
+
+
+        //find the owner
+
+
+        return c;
 
     }
 
@@ -64,114 +113,111 @@ public class SessionParser  {
 
         Session s = new Session();
 
-        //right now, we just want to initialize the tournamentSession object
-        //we aren't really worried about parsing specific hands at this point
-        //we just want to get the tourney ID, table number, blinds, hand #, level,
-        // etc, basic stuff found in the headers of each hand
+        
 
         //the lines we want to deal with are the first two and then 
         //however many players there are, because we need an array of players
         //to init the object
 
         //start of line 1
-        Scanner scnr = new Scanner(f);
-        Scanner lscnr = new Scanner(scnr.nextLine());
-        lscnr.next(); 
-        lscnr.next();
-        String tempHandNumber = lscnr.next();
-        lscnr.next();
-        lscnr.next();
-        String tempTournamentID = lscnr.next();
-        lscnr.next();
-        String gameType = lscnr.next();
-        lscnr.next();
-        lscnr.next();
-        int tempLevel = Integer.parseInt(lscnr.next());
-        String tempStakes = lscnr.next();
-        String tempDate = lscnr.next();
-        String tempTime = lscnr.next();
-        lscnr.close();
+        // Scanner scnr = new Scanner(f);
+        // Scanner lscnr = new Scanner(scnr.nextLine());
+        // lscnr.next(); 
+        // lscnr.next();
+        // String tempHandNumber = lscnr.next();
+        // lscnr.next();
+        // lscnr.next();
+        // String tempTournamentID = lscnr.next();
+        // lscnr.next();
+        // String gameType = lscnr.next();
+        // lscnr.next();
+        // lscnr.next();
+        // int tempLevel = Integer.parseInt(lscnr.next());
+        // String tempStakes = lscnr.next();
+        // String tempDate = lscnr.next();
+        // String tempTime = lscnr.next();
+        // lscnr.close();
         //first line done
 
         //init a session using just date and time
-        s = new TournamentSession(tempTime, tempDate);
+        // s = new TournamentSession(tempTime, tempDate);
 
         //start of line 2
-        lscnr = new Scanner(scnr.nextLine());
-        lscnr.next();
-        String tempTableName = lscnr.next();
-        int tempMaxPlayersAtTable = Integer.parseInt(lscnr.next().substring(0, 1));
-        lscnr.next();
-        //may or may not need this for the session
-        int tempIsButton = Integer.parseInt(lscnr.next().substring(1));
-        lscnr.close();
+        // lscnr = new Scanner(scnr.nextLine());
+        // lscnr.next();
+        // String tempTableName = lscnr.next();
+        // int tempMaxPlayersAtTable = Integer.parseInt(lscnr.next().substring(0, 1));
+        // lscnr.next();
+        // //may or may not need this for the session
+        // int tempIsButton = Integer.parseInt(lscnr.next().substring(1));
+        // lscnr.close();
         //done with line 2
 
         //iterate through all 'Seat X' lines one by one (variable amount of lines),
         //create player objects, assign seats, stacks ect., 
         //max # of lines --> tempMaxPlayersAtTable
-        int i = 0;
-        while (i < tempMaxPlayersAtTable){
+        // int i = 0;
+        // while (i < tempMaxPlayersAtTable){
 
-            String tempCurrentLine = scnr.nextLine();
-            lscnr = new Scanner(tempCurrentLine);
-            lscnr.next();//'Seat'
-            String tempWord = lscnr.next();//if we are parsing a 'Seat' line, this NOT be 'posts'
-            if (tempWord.equals("posts")){
+        //     String tempCurrentLine = scnr.nextLine();
+        //     lscnr = new Scanner(tempCurrentLine);
+        //     lscnr.next();//'Seat'
+        //     String tempWord = lscnr.next();//if we are parsing a 'Seat' line, this NOT be 'posts'
+        //     if (tempWord.equals("posts")){
 
-                //we have iterated past the 'Seat' lines
-                //will need to break out but also salvage the current line we are on
-                lscnr = new Scanner(tempCurrentLine);
-                break;
+        //         //we have iterated past the 'Seat' lines
+        //         //will need to break out but also salvage the current line we are on
+        //         lscnr = new Scanner(tempCurrentLine);
+        //         break;
 
-            }
-            else{
+        //     }
+        //     else{
 
-                int tempSeatNumber = Integer.parseInt(tempWord.substring(1));//'1:' --> '1' --> 1
-                String tempUsername = lscnr.next();
-                String tStack = lscnr.next();
-                double tempCurrentStack = Double.parseDouble(tStack.substring(1, tStack.length() - 1));
-                //so we init the player using just their username and then set their seatnumber at the same time
-                s.setSeat((new Player(tempUsername)), tempSeatNumber);
+        //         int tempSeatNumber = Integer.parseInt(tempWord.substring(1));//'1:' --> '1' --> 1
+        //         String tempUsername = lscnr.next();
+        //         String tStack = lscnr.next();
+        //         double tempCurrentStack = Double.parseDouble(tStack.substring(1, tStack.length() - 1));
+        //         //so we init the player using just their username and then set their seatnumber at the same time
+        //         s.setSeat((new Player(tempUsername)), tempSeatNumber);
 
-                //alternatively, we could make the constructor take in seatnumber and stack amount ----> think about later
+        //         //alternatively, we could make the constructor take in seatnumber and stack amount ----> think about later
 
-                //now we can go back in and set more of the players fields that we know using the sessions player[]
-                //first we set the stack
-                s.getPlayersAtTable()[tempSeatNumber - 1].setStack(tempCurrentStack);
-                //then seat number (may be slightly redundant)
-                s.getPlayersAtTable()[tempSeatNumber - 1].setSeatNumber(tempSeatNumber);
+        //         //now we can go back in and set more of the players fields that we know using the sessions player[]
+        //         //first we set the stack
+        //         s.getPlayersAtTable()[tempSeatNumber - 1].setStack(tempCurrentStack);
+        //         //then seat number (may be slightly redundant)
+        //         s.getPlayersAtTable()[tempSeatNumber - 1].setSeatNumber(tempSeatNumber);
 
 
-                //NEED TO THROW IN A CONDITIONAL FOR IF THE SEAT NUMBER WE ARE ASSIGNING IS ALSO THE BUTTON
-                if (tempSeatNumber == tempIsButton){
+        //         //NEED TO THROW IN A CONDITIONAL FOR IF THE SEAT NUMBER WE ARE ASSIGNING IS ALSO THE BUTTON
+        //         if (tempSeatNumber == tempIsButton){
 
-                    s.getPlayersAtTable()[tempSeatNumber - 1].setIsButton(true);
+        //             s.getPlayersAtTable()[tempSeatNumber - 1].setIsButton(true);
 
-                }
-                else{
+        //         }
+        //         else{
 
-                    s.getPlayersAtTable()[tempSeatNumber - 1].setIsButton(false);
+        //             s.getPlayersAtTable()[tempSeatNumber - 1].setIsButton(false);
 
-                }
+        //         }
 
-                //ALSO NEED TO CHECK IF SCNR.HASnEXT() IS TRUE, IN WHICH CASE WE HAVE A SPECIAL CASE, LIKE IS SITTING OUT
-                if (lscnr.hasNext()){
+        //         //ALSO NEED TO CHECK IF SCNR.HASnEXT() IS TRUE, IN WHICH CASE WE HAVE A SPECIAL CASE, LIKE IS SITTING OUT
+        //         if (lscnr.hasNext()){
 
-                    //what are all of the special cases:
-                    //sitting out
-                    //will be allowed to play after the button
-                    //idk if there are more or not
-                    s.getPlayersAtTable()[tempSeatNumber - 1].setIsSittingOut(true);
+        //             //what are all of the special cases:
+        //             //sitting out
+        //             //will be allowed to play after the button
+        //             //idk if there are more or not
+        //             s.getPlayersAtTable()[tempSeatNumber - 1].setIsSittingOut(true);
 
-                }
-                else{
+        //         }
+        //         else{
 
-                    s.getPlayersAtTable()[tempSeatNumber - 1].setIsSittingOut(false);
+        //             s.getPlayersAtTable()[tempSeatNumber - 1].setIsSittingOut(false);
 
-                }
-            }
-        }
+        //         }
+            
+        
 
 
         //DONE WITH FIRST 2 + ALL SEAT LINES
@@ -180,7 +226,7 @@ public class SessionParser  {
         
 
         //dummy return
-        TournamentSession ts;
+        TournamentSession ts = null;
         return ts;
 
     }

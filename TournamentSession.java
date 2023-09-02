@@ -1,7 +1,7 @@
 public class TournamentSession extends Session{
     
 
-    public TournamentSession(){
+    public TournamentSession(String date, String time){
 
         super();
         

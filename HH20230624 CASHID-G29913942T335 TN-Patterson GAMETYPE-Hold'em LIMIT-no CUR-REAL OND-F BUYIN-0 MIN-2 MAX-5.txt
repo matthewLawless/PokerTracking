@@ -1,0 +1,2657 @@
+Hand #1756918660 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:06:14 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: CloOnTheFlop ($7.33)
+Seat 3: lorddebris ($1.07)
+Seat 4: sublime finisher ($5.43)
+Seat 5: blackchair ($5.00)
+Seat 6: dimka9111 ($4.86)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2s 3s]
+dimka9111 folds
+Lumble folds
+CloOnTheFlop folds
+lorddebris folds
+sublime finisher raises $0.10 to $0.12
+blackchair calls $0.07
+*** FLOP *** [4h 5c 4s]
+Main pot $0.23 | Rake $0.01
+sublime finisher bets $0.18
+blackchair calls $0.18
+*** TURN *** [4h 5c 4s] [3h]
+Main pot $0.57 | Rake $0.03
+sublime finisher checks
+blackchair bets $0.30
+sublime finisher folds
+Uncalled bet ($0.30) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [4h 5c 4s 3h]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: CloOnTheFlop folded on the Pre-Flop and did not bet
+Seat 3: lorddebris (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) folded on the Turn
+Seat 5: blackchair did not show and won $0.57
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756920064 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:07:12 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: CloOnTheFlop ($7.33)
+Seat 3: lorddebris ($1.07)
+Seat 4: sublime finisher ($5.13)
+Seat 5: blackchair ($5.27)
+Seat 6: dimka9111 ($4.86)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2c 8d]
+Lumble raises $0.10 to $0.10
+CloOnTheFlop folds
+lorddebris calls $0.10
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+*** FLOP *** [6s Jc Ad]
+Main pot $0.26 | Rake $0.01
+Lumble checks
+lorddebris checks
+*** TURN *** [6s Jc Ad] [Qc]
+Main pot $0.26 | Rake $0.01
+Lumble bets $0.08
+lorddebris folds
+Uncalled bet ($0.08) returned to Lumble
+Lumble does not show
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01
+Board [6s Jc Ad Qc]
+Seat 1: Lumble did not show and won $0.26
+Seat 2: CloOnTheFlop folded on the Pre-Flop and did not bet
+Seat 3: lorddebris folded on the Turn
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: dimka9111 (big blind) folded on the Pre-Flop
+
+Hand #1756921213 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:07:58 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: Lumble ($5.16)
+Seat 2: CloOnTheFlop ($7.33)
+Seat 3: lorddebris ($0.97)
+Seat 4: sublime finisher ($5.13)
+Seat 5: blackchair ($5.25)
+Seat 6: dimka9111 ($4.81)
+dimka9111 posts the small blind $0.02
+Lumble posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [3c Qh]
+CloOnTheFlop raises $0.12 to $0.12
+lorddebris folds
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Lumble folds
+Uncalled bet ($0.07) returned to CloOnTheFlop
+CloOnTheFlop does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: Lumble (big blind) folded on the Pre-Flop
+Seat 2: CloOnTheFlop did not show and won $0.12
+Seat 3: lorddebris folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: dimka9111 (small blind) folded on the Pre-Flop
+
+Hand #1756921731 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:08:20 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: Lumble ($5.11)
+Seat 2: CloOnTheFlop ($7.40)
+Seat 3: lorddebris ($0.97)
+Seat 4: sublime finisher ($5.13)
+Seat 5: blackchair ($5.25)
+Seat 6: dimka9111 ($4.79)
+Lumble posts the small blind $0.02
+CloOnTheFlop posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ah 8s]
+lorddebris folds
+sublime finisher raises $0.11 to $0.11
+blackchair calls $0.11
+dimka9111 folds
+Lumble folds
+CloOnTheFlop calls $0.06
+*** FLOP *** [Qh Ad 9c]
+Main pot $0.34 | Rake $0.01
+CloOnTheFlop checks
+sublime finisher bets $0.26
+blackchair calls $0.26
+CloOnTheFlop folds
+*** TURN *** [Qh Ad 9c] [5h]
+Main pot $0.83 | Rake $0.04
+sublime finisher checks
+blackchair bets $0.55
+sublime finisher folds
+Uncalled bet ($0.55) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.04
+Board [Qh Ad 9c 5h]
+Seat 1: Lumble (small blind) folded on the Pre-Flop
+Seat 2: CloOnTheFlop (big blind) folded on the Flop
+Seat 3: lorddebris folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Turn
+Seat 5: blackchair did not show and won $0.83
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756923150 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:09:20 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: Lumble ($5.09)
+Seat 2: CloOnTheFlop ($7.29)
+Seat 3: lorddebris ($0.97)
+Seat 4: sublime finisher ($4.76)
+Seat 5: blackchair ($5.71)
+Seat 6: dimka9111 ($4.79)
+CloOnTheFlop posts the small blind $0.02
+lorddebris posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [5d 8s]
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Lumble raises $0.12 to $0.12
+CloOnTheFlop folds
+lorddebris calls $0.07
+*** FLOP *** [Jh 3s 8d]
+Main pot $0.25 | Rake $0.01
+lorddebris checks
+Lumble bets $0.08
+lorddebris calls $0.08
+*** TURN *** [Jh 3s 8d] [4c]
+Main pot $0.40 | Rake $0.02
+lorddebris checks
+Lumble checks
+*** RIVER *** [Jh 3s 8d 4c] [Qs]
+Main pot $0.40 | Rake $0.02
+lorddebris bets $0.21
+Lumble folds
+Uncalled bet ($0.21) returned to lorddebris
+lorddebris does not show
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02
+Board [Jh 3s 8d 4c Qs]
+Seat 1: Lumble (button) folded on the River
+Seat 2: CloOnTheFlop (small blind) folded on the Pre-Flop
+Seat 3: lorddebris did not show and won $0.40
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756924564 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:10:18 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: CloOnTheFlop ($7.27)
+Seat 3: lorddebris ($1.17)
+Seat 4: sublime finisher ($4.76)
+Seat 5: blackchair ($5.71)
+Seat 6: dimka9111 ($4.79)
+lorddebris posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Td 9h]
+blackchair folds
+dimka9111 folds
+Lumble folds
+CloOnTheFlop folds
+lorddebris folds
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: CloOnTheFlop (button) folded on the Pre-Flop
+Seat 3: lorddebris (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.07
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756925320 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:10:48 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: CloOnTheFlop ($7.27)
+Seat 3: lorddebris ($1.15)
+Seat 4: sublime finisher ($4.78)
+Seat 5: blackchair ($5.71)
+Seat 6: dimka9111 ($4.79)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Qh 6d]
+dimka9111 folds
+Lumble folds
+CloOnTheFlop folds
+lorddebris folds
+sublime finisher raises $0.10 to $0.12
+blackchair folds
+Uncalled bet ($0.07) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: CloOnTheFlop folded on the Pre-Flop and did not bet
+Seat 3: lorddebris (button) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.10
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756926175 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:11:23 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: CloOnTheFlop ($7.27)
+Seat 3: lorddebris ($1.15)
+Seat 4: sublime finisher ($4.83)
+Seat 5: blackchair ($5.66)
+Seat 6: dimka9111 ($4.79)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Th 4d]
+Lumble folds
+CloOnTheFlop raises $0.12 to $0.12
+lorddebris folds
+sublime finisher calls $0.12
+blackchair folds
+dimka9111 folds
+*** FLOP *** [2h 2d 5c]
+Main pot $0.30 | Rake $0.01
+CloOnTheFlop bets $0.15
+sublime finisher calls $0.15
+*** TURN *** [2h 2d 5c] [8s]
+Main pot $0.58 | Rake $0.03
+CloOnTheFlop checks
+sublime finisher bets $0.45
+CloOnTheFlop folds
+Uncalled bet ($0.45) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.03
+Board [2h 2d 5c 8s]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: CloOnTheFlop folded on the Turn
+Seat 3: lorddebris folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher did not show and won $0.58
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: dimka9111 (big blind) folded on the Pre-Flop
+
+Hand #1756927799 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:12:31 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: Lumble ($5.00)
+Seat 4: sublime finisher ($5.14)
+Seat 5: blackchair ($5.64)
+Seat 6: dimka9111 ($4.74)
+dimka9111 posts the small blind $0.02
+Lumble posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ac Ad]
+sublime finisher folds
+blackchair calls $0.05
+dimka9111 calls $0.03
+Lumble checks
+*** FLOP *** [6h Ks 8h]
+Main pot $0.15 | Rake $0.00
+dimka9111 checks
+Lumble checks
+blackchair bets $0.15
+dimka9111 folds
+Lumble folds
+Uncalled bet ($0.15) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [6h Ks 8h]
+Seat 1: Lumble (big blind) folded on the Flop
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.15
+Seat 6: dimka9111 (small blind) folded on the Flop
+
+Hand #1756929829 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:13:52 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($2.00)
+Seat 4: sublime finisher ($5.14)
+Seat 5: blackchair ($5.74)
+Seat 6: dimka9111 ($4.69) is sitting out
+Lumble posts the small blind $0.02
+acesonriva posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [5d Ac]
+sublime finisher raises $0.14 to $0.14
+blackchair calls $0.14
+Lumble folds
+acesonriva calls $0.09
+*** FLOP *** [Ad 2c 3h]
+Main pot $0.42 | Rake $0.02
+acesonriva checks
+sublime finisher bets $0.29
+blackchair calls $0.29
+acesonriva calls $0.29
+*** TURN *** [Ad 2c 3h] [3d]
+Main pot $1.25 | Rake $0.06
+acesonriva checks
+sublime finisher checks
+blackchair bets $0.71
+acesonriva folds
+sublime finisher folds
+Uncalled bet ($0.71) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.04 | JP Fee $0.02
+Board [Ad 2c 3h 3d]
+Seat 1: Lumble (small blind) folded on the Pre-Flop
+Seat 2: acesonriva (big blind) folded on the Turn
+Seat 4: sublime finisher folded on the Turn
+Seat 5: blackchair did not show and won $1.25
+
+Hand #1756931643 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:15:07 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.57)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.71)
+Seat 5: blackchair ($6.56)
+Seat 6: dimka9111 ($4.69)
+acesonriva posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [9d 8h]
+sublime finisher raises $0.14 to $0.14
+blackchair folds
+dimka9111 folds
+Lumble folds
+acesonriva folds
+NowBendOver folds
+Uncalled bet ($0.09) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: Lumble (button) folded on the Pre-Flop
+Seat 2: acesonriva (small blind) folded on the Pre-Flop
+Seat 3: NowBendOver (big blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.12
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756932454 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:15:40 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.55)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.78)
+Seat 5: blackchair ($6.56)
+Seat 6: dimka9111 ($4.69)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [7c 7h]
+blackchair raises $0.14 to $0.14
+dimka9111 raises $0.23 to $0.23
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher folds
+blackchair calls $0.09
+*** FLOP *** [Td 5s 4h]
+Main pot $0.51 | Rake $0.02
+blackchair checks
+dimka9111 checks
+*** TURN *** [Td 5s 4h] [Qs]
+Main pot $0.51 | Rake $0.02
+blackchair bets $0.30
+dimka9111 folds
+Uncalled bet ($0.30) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02
+Board [Td 5s 4h Qs]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva (button) folded on the Pre-Flop
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher (big blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.51
+Seat 6: dimka9111 folded on the Turn
+
+Hand #1756934019 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:16:44 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.55)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.73)
+Seat 5: blackchair ($6.84)
+Seat 6: dimka9111 ($4.46)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ah Kc]
+dimka9111 folds
+Lumble folds
+acesonriva raises $0.14 to $0.14
+NowBendOver folds
+sublime finisher folds
+blackchair calls $0.09
+*** FLOP *** [Qs 2c 7d]
+Main pot $0.29 | Rake $0.01
+blackchair checks
+acesonriva bets $0.22
+blackchair calls $0.22
+*** TURN *** [Qs 2c 7d] [5h]
+Main pot $0.71 | Rake $0.03
+blackchair checks
+acesonriva checks
+*** RIVER *** [Qs 2c 7d 5h] [4h]
+Main pot $0.71 | Rake $0.03
+blackchair bets $0.24
+acesonriva calls $0.24
+*** SHOW DOWN ***
+Main pot $1.16 | Rake $0.06
+acesonriva shows [Js Jc] (a pair of Jacks [Js Jc Qs 7d 5h])
+blackchair shows [Ah Kc] (a high card, Ace high [Ah Kc Qs 7d 5h])
+acesonriva collected $1.16 from main pot
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.04 | JP Fee $0.02
+Board [Qs 2c 7d 5h 4h]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva showed [Js Jc] and won $1.16 with a pair of Jacks [Js Jc Qs 7d 5h]
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) folded on the Pre-Flop
+Seat 5: blackchair (big blind) showed [Ah Kc] and lost with a high card, Ace high [Ah Kc Qs 7d 5h]
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756935163 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:17:31 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($2.11)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.71)
+Seat 5: blackchair ($6.24)
+Seat 6: dimka9111 ($4.46)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [7d As]
+Lumble folds
+acesonriva calls $0.05
+NowBendOver folds
+sublime finisher folds
+blackchair calls $0.03
+dimka9111 checks
+*** FLOP *** [7c 5c 8d]
+Main pot $0.15 | Rake $0.00
+blackchair bets $0.07
+dimka9111 folds
+acesonriva folds
+Uncalled bet ($0.07) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [7c 5c 8d]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Flop
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.15
+Seat 6: dimka9111 (big blind) folded on the Flop
+
+Hand #1756936612 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:18:31 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($2.06)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.71)
+Seat 5: blackchair ($6.34)
+Seat 6: dimka9111 ($4.41) is sitting out
+Lumble posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [4d 2h]
+acesonriva folds
+NowBendOver folds
+sublime finisher raises $0.12 to $0.12
+blackchair folds
+Lumble folds
+Uncalled bet ($0.07) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Lumble (big blind) folded on the Pre-Flop
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher did not show and won $0.10
+Seat 5: blackchair (button) folded on the Pre-Flop
+
+Hand #1756937031 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:18:48 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($2.06)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.76)
+Seat 5: blackchair ($6.34)
+Seat 6: dimka9111 ($4.41) is sitting out
+Lumble posts the small blind $0.02
+acesonriva posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [6c As]
+NowBendOver folds
+sublime finisher raises $0.11 to $0.11
+blackchair calls $0.11
+Lumble folds
+acesonriva calls $0.06
+*** FLOP *** [2c 5c Jc]
+Main pot $0.34 | Rake $0.01
+acesonriva checks
+sublime finisher checks
+blackchair checks
+*** TURN *** [2c 5c Jc] [2h]
+Main pot $0.34 | Rake $0.01
+acesonriva checks
+sublime finisher bets $0.26
+blackchair folds
+acesonriva folds
+Uncalled bet ($0.26) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01
+Board [2c 5c Jc 2h]
+Seat 1: Lumble (small blind) folded on the Pre-Flop
+Seat 2: acesonriva (big blind) folded on the Turn
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher did not show and won $0.34
+Seat 5: blackchair folded on the Turn
+
+Hand #1756938739 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:19:59 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.95)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.99)
+Seat 5: blackchair ($6.23)
+Seat 6: dimka9111 ($4.41)
+acesonriva posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+dimka9111 waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [7s Jh]
+sublime finisher raises $0.12 to $0.12
+blackchair folds
+Lumble folds
+acesonriva folds
+NowBendOver folds
+Uncalled bet ($0.07) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: Lumble (button) folded on the Pre-Flop
+Seat 2: acesonriva (small blind) folded on the Pre-Flop
+Seat 3: NowBendOver (big blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.12
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+
+Hand #1756939345 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:20:24 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.93)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.06)
+Seat 5: blackchair ($6.23)
+Seat 6: dimka9111 ($4.41)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+dimka9111 waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [4s 5h]
+blackchair folds
+Lumble folds
+acesonriva calls $0.05
+NowBendOver raises $0.18 to $0.20
+sublime finisher folds
+acesonriva folds
+Uncalled bet ($0.15) returned to NowBendOver
+NowBendOver does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva (button) folded on the Pre-Flop
+Seat 3: NowBendOver did not show and won $0.15
+Seat 4: sublime finisher (big blind) folded on the Pre-Flop
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+
+Hand #1756939942 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:20:49 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.88)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.01)
+Seat 5: blackchair ($6.23)
+Seat 6: dimka9111 ($4.41)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+dimka9111 waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [Qs Jd]
+Lumble raises $0.10 to $0.10
+acesonriva folds
+NowBendOver folds
+sublime finisher calls $0.08
+blackchair calls $0.05
+*** FLOP *** [As 3c 6d]
+Main pot $0.29 | Rake $0.01
+sublime finisher checks
+blackchair checks
+Lumble checks
+*** TURN *** [As 3c 6d] [6h]
+Main pot $0.29 | Rake $0.01
+sublime finisher checks
+blackchair checks
+Lumble checks
+*** RIVER *** [As 3c 6d 6h] [7c]
+Main pot $0.29 | Rake $0.01
+sublime finisher bets $0.15
+blackchair folds
+Lumble calls $0.15
+*** SHOW DOWN ***
+Main pot $0.57 | Rake $0.03
+Lumble shows [Ks Kh] (two pair, Kings and Sixs [Ks Kh 6h 6d As])
+sublime finisher shows [Jc Ah] (two pair, Aces and Sixs [As Ah 6h 6d Jc])
+sublime finisher collected $0.57 from main pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [As 3c 6d 6h 7c]
+Seat 1: Lumble showed [Ks Kh] and lost with two pair, Kings and Sixs [Ks Kh 6h 6d As]
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) showed [Jc Ah] and won $0.57 with two pair, Aces and Sixs [As Ah 6h 6d Jc]
+Seat 5: blackchair (big blind) folded on the River
+
+Hand #1756941314 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:21:46 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.88)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.33)
+Seat 5: blackchair ($6.13)
+Seat 6: dimka9111 ($4.41)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2s Qh]
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher folds
+blackchair folds
+dimka9111 does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: dimka9111 did not show and won $0.07
+
+Hand #1756941695 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:22:02 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.88)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.33)
+Seat 5: blackchair ($6.11)
+Seat 6: dimka9111 ($4.43)
+dimka9111 posts the small blind $0.02
+Lumble posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [3c 7c]
+acesonriva folds
+NowBendOver folds
+sublime finisher folds
+blackchair folds
+dimka9111 raises $0.13 to $0.15
+Lumble folds
+Uncalled bet ($0.10) returned to dimka9111
+dimka9111 does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Lumble (big blind) folded on the Pre-Flop
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: dimka9111 did not show and won $0.10
+
+Hand #1756942336 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:22:29 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.88)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.33)
+Seat 5: blackchair ($6.11)
+Seat 6: dimka9111 ($4.48)
+Lumble posts the small blind $0.02
+acesonriva posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ks Th]
+NowBendOver folds
+sublime finisher folds
+blackchair raises $0.14 to $0.14
+dimka9111 folds
+Lumble raises $0.58 to $0.60
+acesonriva folds
+blackchair calls $0.46
+*** FLOP *** [Jh Ts 5d]
+Main pot $1.19 | Rake $0.06
+Lumble bets $0.40
+blackchair calls $0.40
+*** TURN *** [Jh Ts 5d] [9h]
+Main pot $1.95 | Rake $0.10
+Lumble checks
+blackchair bets $0.92
+Lumble calls $0.92
+*** RIVER *** [Jh Ts 5d 9h] [Qh]
+Main pot $3.70 | Rake $0.19
+Lumble checks
+blackchair checks
+*** SHOW DOWN ***
+Main pot $3.70 | Rake $0.19
+Lumble shows [Jc Tc] (two pair, Jacks and Tens [Jh Jc Ts Tc Qh])
+blackchair shows [Ks Th] (a straight, King high [Ks Qh Jh Ts 9h])
+blackchair collected $3.70 from main pot
+*** SUMMARY ***
+Total pot $3.70 | Rake $0.13 | JP Fee $0.06
+Board [Jh Ts 5d 9h Qh]
+Seat 1: Lumble (small blind) showed [Jc Tc] and lost with two pair, Jacks and Tens [Jh Jc Ts Tc Qh]
+Seat 2: acesonriva (big blind) folded on the Pre-Flop
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair showed [Ks Th] and won $3.70 with a straight, King high [Ks Qh Jh Ts 9h]
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756944640 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:24:05 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.83)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.33)
+Seat 5: blackchair ($7.89)
+Seat 6: dimka9111 ($4.48)
+acesonriva posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Tc 3s]
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Lumble folds
+acesonriva folds
+NowBendOver does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Lumble (button) folded on the Pre-Flop
+Seat 2: acesonriva (small blind) folded on the Pre-Flop
+Seat 3: NowBendOver did not show and won $0.07
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756945092 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:24:24 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.81)
+Seat 3: NowBendOver ($5.12)
+Seat 4: sublime finisher ($5.33)
+Seat 5: blackchair ($7.89)
+Seat 6: dimka9111 ($5.00)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [3s 2c]
+blackchair folds
+dimka9111 folds
+Lumble raises $0.11 to $0.11
+acesonriva folds
+NowBendOver folds
+sublime finisher calls $0.06
+*** FLOP *** [2d 9s 2h]
+Main pot $0.23 | Rake $0.01
+sublime finisher checks
+Lumble bets $0.07
+sublime finisher calls $0.07
+*** TURN *** [2d 9s 2h] [Ks]
+Main pot $0.37 | Rake $0.01
+sublime finisher bets $0.19
+Lumble folds
+Uncalled bet ($0.19) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01
+Board [2d 9s 2h Ks]
+Seat 1: Lumble folded on the Turn
+Seat 2: acesonriva (button) folded on the Pre-Flop
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.37
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756946136 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:25:09 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.81)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.52)
+Seat 5: blackchair ($7.89)
+Seat 6: dimka9111 ($5.00)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2s 7h]
+dimka9111 folds
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher raises $0.14 to $0.16
+blackchair folds
+Uncalled bet ($0.11) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.10
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756946708 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:25:34 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.81)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.57)
+Seat 5: blackchair ($7.84)
+Seat 6: dimka9111 ($5.00)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [3s 5s]
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher folds
+blackchair raises $0.10 to $0.12
+dimka9111 folds
+Uncalled bet ($0.07) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.10
+Seat 6: dimka9111 (big blind) folded on the Pre-Flop
+
+Hand #1756947551 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:26:09 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: Lumble ($5.00)
+Seat 2: acesonriva ($1.81)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.57)
+Seat 5: blackchair ($7.89)
+Seat 6: dimka9111 ($4.95)
+dimka9111 posts the small blind $0.02
+Lumble posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Jd Qs]
+acesonriva folds
+NowBendOver folds
+sublime finisher folds
+blackchair calls $0.05
+dimka9111 folds
+Lumble raises $0.20 to $0.25
+blackchair calls $0.20
+*** FLOP *** [Jc 6h Qh]
+Main pot $0.50 | Rake $0.02
+Lumble bets $0.37
+blackchair calls $0.37
+*** TURN *** [Jc 6h Qh] [Ks]
+Main pot $1.20 | Rake $0.06
+Lumble bets $0.90
+blackchair raises $3.19 to $3.19
+Lumble raises $3.48 to $4.38 and is all-in
+blackchair calls $1.19
+*** RIVER *** [Jc 6h Qh Ks] [5d]
+Main pot $9.52 | Rake $0.50
+*** SHOW DOWN ***
+Main pot $9.52 | Rake $0.50
+Lumble shows [Js Jh] (three of a kind, Set of Jacks [Js Jh Jc Ks Qh])
+blackchair shows [Jd Qs] (two pair, Queens and Jacks [Qs Qh Jd Jc Ks])
+Lumble collected $9.52 from main pot
+*** SUMMARY ***
+Total pot $9.52 | Rake $0.34 | JP Fee $0.16
+Board [Jc 6h Qh Ks 5d]
+Seat 1: Lumble (big blind) showed [Js Jh] and won $9.52 with three of a kind, Set of Jacks [Js Jh Jc Ks Qh]
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) showed [Jd Qs] and lost with two pair, Queens and Jacks [Qs Qh Jd Jc Ks]
+Seat 6: dimka9111 (small blind) folded on the Pre-Flop
+
+Hand #1756949657 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:27:37 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: Lumble ($9.52)
+Seat 2: acesonriva ($1.81)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.57)
+Seat 5: blackchair ($2.89)
+Seat 6: dimka9111 ($4.93)
+Lumble posts the small blind $0.02
+acesonriva posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [6d 8h]
+NowBendOver folds
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Lumble raises $0.13 to $0.15
+acesonriva calls $0.10
+*** FLOP *** [4c Ac Td]
+Main pot $0.29 | Rake $0.01
+Lumble bets $0.21
+acesonriva folds
+Uncalled bet ($0.21) returned to Lumble
+Lumble does not show
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [4c Ac Td]
+Seat 1: Lumble did not show and won $0.29
+Seat 2: acesonriva (big blind) folded on the Flop
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756950406 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:28:09 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: Lumble ($9.66)
+Seat 2: acesonriva ($1.66)
+Seat 3: NowBendOver ($5.10)
+Seat 4: sublime finisher ($5.57)
+Seat 5: blackchair ($2.89)
+Seat 6: dimka9111 ($4.93)
+acesonriva posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [8s As]
+sublime finisher raises $0.12 to $0.12
+blackchair calls $0.12
+dimka9111 folds
+Lumble folds
+acesonriva calls $0.10
+NowBendOver calls $0.07
+*** FLOP *** [8h Ts 7c]
+Main pot $0.46 | Rake $0.02
+acesonriva checks
+NowBendOver checks
+sublime finisher checks
+blackchair checks
+*** TURN *** [8h Ts 7c] [3s]
+Main pot $0.46 | Rake $0.02
+acesonriva checks
+NowBendOver bets $0.36
+sublime finisher calls $0.36
+blackchair calls $0.36
+acesonriva folds
+*** RIVER *** [8h Ts 7c 3s] [8d]
+Main pot $1.49 | Rake $0.07
+NowBendOver bets $0.39
+sublime finisher raises $2.14 to $2.14
+blackchair raises $2.41 to $2.41 and is all-in
+NowBendOver folds
+sublime finisher calls $0.27
+*** SHOW DOWN ***
+Main pot $6.44 | Rake $0.33
+sublime finisher shows [Kd 9d] (a pair of Eights [8h 8d Kd Ts 9d])
+blackchair shows [8s As] (three of a kind, Set of Eights [8s 8h 8d As Ts])
+blackchair collected $6.44 from main pot
+*** SUMMARY ***
+Total pot $6.44 | Rake $0.23 | JP Fee $0.10
+Board [8h Ts 7c 3s 8d]
+Seat 1: Lumble (button) folded on the Pre-Flop
+Seat 2: acesonriva (small blind) folded on the Turn
+Seat 3: NowBendOver (big blind) folded on the River
+Seat 4: sublime finisher showed [Kd 9d] and lost with a pair of Eights [8h 8d Kd Ts 9d]
+Seat 5: blackchair showed [8s As] and won $6.44 with three of a kind, Set of Eights [8s 8h 8d As Ts]
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756952465 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:29:38 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: Lumble ($9.66)
+Seat 2: acesonriva ($1.54)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($2.68)
+Seat 5: blackchair ($6.44)
+Seat 6: dimka9111 ($4.93)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [9d 4d]
+blackchair folds
+dimka9111 folds
+Lumble raises $0.11 to $0.11
+acesonriva calls $0.11
+NowBendOver folds
+sublime finisher folds
+*** FLOP *** [9c Jd 7h]
+Main pot $0.28 | Rake $0.01
+Lumble checks
+acesonriva checks
+*** TURN *** [9c Jd 7h] [6s]
+Main pot $0.28 | Rake $0.01
+Lumble checks
+acesonriva checks
+*** RIVER *** [9c Jd 7h 6s] [8h]
+Main pot $0.28 | Rake $0.01
+Lumble checks
+acesonriva checks
+*** SHOW DOWN ***
+Main pot $0.28 | Rake $0.01
+Lumble shows [Kc 6c] (a pair of Sixs [6s 6c Kc Jd 9c])
+acesonriva shows [Kh Qh] (a high card, King high [Kh Qh Jd 9c 8h])
+Lumble collected $0.28 from main pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [9c Jd 7h 6s 8h]
+Seat 1: Lumble showed [Kc 6c] and won $0.28 with a pair of Sixs [6s 6c Kc Jd 9c]
+Seat 2: acesonriva (button) showed [Kh Qh] and lost with a high card, King high [Kh Qh Jd 9c 8h]
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher (big blind) folded on the Pre-Flop
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756953802 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:30:34 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($9.83)
+Seat 2: acesonriva ($1.43)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.00)
+Seat 5: blackchair ($6.44)
+Seat 6: dimka9111 ($4.93)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [5d 6d]
+dimka9111 folds
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher folds
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.07
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756954279 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:30:55 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: Lumble ($9.83)
+Seat 2: acesonriva ($1.43)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.98)
+Seat 5: blackchair ($6.46)
+Seat 6: dimka9111 ($4.93)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [4h Kh]
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher raises $0.14 to $0.14
+blackchair calls $0.12
+dimka9111 folds
+*** FLOP *** [Th Ad 4c]
+Main pot $0.32 | Rake $0.01
+blackchair checks
+sublime finisher checks
+*** TURN *** [Th Ad 4c] [5s]
+Main pot $0.32 | Rake $0.01
+blackchair bets $0.08
+sublime finisher calls $0.08
+*** RIVER *** [Th Ad 4c 5s] [4d]
+Main pot $0.47 | Rake $0.02
+blackchair bets $0.38
+sublime finisher calls $0.38
+*** SHOW DOWN ***
+Main pot $1.19 | Rake $0.06
+sublime finisher shows [Ac Js] (two pair, Aces and Fours [Ad Ac 4d 4c Js])
+blackchair shows [4h Kh] (three of a kind, Set of Fours [4h 4d 4c Ad Kh])
+blackchair collected $1.19 from main pot
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 | JP Fee $0.02
+Board [Th Ad 4c 5s 4d]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher (button) showed [Ac Js] and lost with two pair, Aces and Fours [Ad Ac 4d 4c Js]
+Seat 5: blackchair (small blind) showed [4h Kh] and won $1.19 with three of a kind, Set of Fours [4h 4d 4c Ad Kh]
+Seat 6: dimka9111 (big blind) folded on the Pre-Flop
+
+Hand #1756955336 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:31:41 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: Lumble ($9.83)
+Seat 2: acesonriva ($1.43)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($4.38)
+Seat 5: blackchair ($7.05)
+Seat 6: dimka9111 ($4.88)
+dimka9111 posts the small blind $0.02
+Lumble posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Qh 8s]
+acesonriva calls $0.05
+NowBendOver folds
+sublime finisher raises $0.22 to $0.22
+blackchair folds
+dimka9111 folds
+Lumble folds
+acesonriva calls $0.17
+*** FLOP *** [5h 9s 6c]
+Main pot $0.49 | Rake $0.02
+acesonriva checks
+sublime finisher bets $0.38
+acesonriva raises $0.76 to $0.76
+sublime finisher raises $2.41 to $2.79
+acesonriva calls $0.45 and is all-in
+Uncalled bet ($1.58) returned to sublime finisher
+*** TURN *** [5h 9s 6c] [5s]
+Main pot $2.79 | Rake $0.14
+*** RIVER *** [5h 9s 6c 5s] [9c]
+Main pot $2.79 | Rake $0.14
+*** SHOW DOWN ***
+Main pot $2.79 | Rake $0.14
+acesonriva shows [6s 6h] (a full house, Sixs full of Nines [6s 6h 6c 9s 9c])
+sublime finisher shows [6d 7d] (two pair, Nines and Sixs [9s 9c 6d 6c 7d])
+acesonriva cashed out hand for $2.34 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.79 | Rake $0.10 | JP Fee $0.04
+Board [5h 9s 6c 5s 9c]
+Seat 1: Lumble (big blind) folded on the Pre-Flop
+Seat 2: acesonriva showed [6s 6h] and won $2.79 with a full house, Sixs full of Nines [6s 6h 6c 9s 9c] (pot not awarded as player cashed out)
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher showed [6d 7d] and lost with two pair, Nines and Sixs [9s 9c 6d 6c 7d]
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: dimka9111 (small blind) folded on the Pre-Flop
+
+Hand #1756956573 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:32:33 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: Lumble ($9.78)
+Seat 2: acesonriva ($2.34)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($2.95)
+Seat 5: blackchair ($7.05)
+Seat 6: dimka9111 ($4.86)
+Lumble posts the small blind $0.02
+acesonriva posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [5c 2d]
+NowBendOver folds
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Lumble folds
+acesonriva does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Lumble (small blind) folded on the Pre-Flop
+Seat 2: acesonriva did not show and won $0.07
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756956935 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:32:48 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: Lumble ($9.76)
+Seat 2: acesonriva ($2.36)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.00)
+Seat 5: blackchair ($7.05)
+Seat 6: dimka9111 ($4.86)
+acesonriva posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2c 7h]
+sublime finisher folds
+blackchair folds
+dimka9111 raises $0.10 to $0.10
+Lumble folds
+acesonriva folds
+NowBendOver folds
+Uncalled bet ($0.05) returned to dimka9111
+dimka9111 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: Lumble (button) folded on the Pre-Flop
+Seat 2: acesonriva (small blind) folded on the Pre-Flop
+Seat 3: NowBendOver (big blind) folded on the Pre-Flop
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 did not show and won $0.12
+
+Hand #1756957796 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:33:24 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: Lumble ($9.76)
+Seat 2: acesonriva ($2.34)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.00)
+Seat 5: blackchair ($7.05)
+Seat 6: dimka9111 ($4.93)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Qs 2d]
+blackchair folds
+dimka9111 folds
+Lumble folds
+acesonriva calls $0.05
+NowBendOver folds
+sublime finisher checks
+*** FLOP *** [8c 5d Ts]
+Main pot $0.12 | Rake $0.00
+sublime finisher checks
+acesonriva checks
+*** TURN *** [8c 5d Ts] [4c]
+Main pot $0.12 | Rake $0.00
+sublime finisher bets $0.09
+acesonriva folds
+acesonriva shows [Ad Qd]
+Uncalled bet ($0.09) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [8c 5d Ts 4c]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva (button) showed [Ad Qd] and folded on the Turn
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.12
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756959035 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:34:16 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($9.76)
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.07)
+Seat 5: blackchair ($7.05)
+Seat 6: dimka9111 ($4.93)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [8h 3c]
+dimka9111 folds
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher raises $0.10 to $0.12
+blackchair folds
+Uncalled bet ($0.07) returned to sublime finisher
+sublime finisher shows [- Ac]
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) showed [- Ac] and won $0.10
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756959853 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:34:52 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: Lumble ($9.76)
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.12)
+Seat 5: blackchair ($7.00)
+Seat 6: dimka9111 ($4.93)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [8c 9d]
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher folds
+blackchair raises $0.08 to $0.10
+dimka9111 raises $0.29 to $0.34
+blackchair calls $0.24
+*** FLOP *** [7s 2c 5h]
+Main pot $0.65 | Rake $0.03
+blackchair checks
+dimka9111 bets $0.49
+blackchair folds
+Uncalled bet ($0.49) returned to dimka9111
+dimka9111 does not show
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03
+Board [7s 2c 5h]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Flop
+Seat 6: dimka9111 did not show and won $0.65
+
+Hand #1756960923 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:35:38 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: Lumble ($9.76)
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.12)
+Seat 5: blackchair ($6.66)
+Seat 6: dimka9111 ($5.24)
+dimka9111 posts the small blind $0.02
+Lumble posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Qs 4s]
+acesonriva folds
+NowBendOver raises $0.14 to $0.14
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Lumble folds
+Uncalled bet ($0.09) returned to NowBendOver
+NowBendOver does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: Lumble (big blind) folded on the Pre-Flop
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver did not show and won $0.12
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: dimka9111 (small blind) folded on the Pre-Flop
+
+Hand #1756961373 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:35:58 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: Lumble ($9.71)
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.07)
+Seat 4: sublime finisher ($5.12)
+Seat 5: blackchair ($6.66)
+Seat 6: dimka9111 ($5.22)
+Lumble posts the small blind $0.02
+acesonriva posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Th 3h]
+NowBendOver folds
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Lumble folds
+acesonriva does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Lumble (small blind) folded on the Pre-Flop
+Seat 2: acesonriva did not show and won $0.07
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756961991 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:36:23 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: Lumble ($9.69)
+Seat 2: acesonriva ($2.31)
+Seat 3: NowBendOver ($5.07)
+Seat 4: sublime finisher ($5.12)
+Seat 5: blackchair ($6.66)
+Seat 6: dimka9111 ($5.22)
+acesonriva posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2d Td]
+sublime finisher folds
+blackchair folds
+dimka9111 raises $0.14 to $0.14
+Lumble folds
+acesonriva folds
+NowBendOver folds
+Uncalled bet ($0.09) returned to dimka9111
+dimka9111 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: Lumble (button) folded on the Pre-Flop
+Seat 2: acesonriva (small blind) folded on the Pre-Flop
+Seat 3: NowBendOver (big blind) folded on the Pre-Flop
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 did not show and won $0.12
+
+Hand #1756962821 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:36:59 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: Lumble ($9.69)
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.02)
+Seat 4: sublime finisher ($5.12)
+Seat 5: blackchair ($6.66)
+Seat 6: dimka9111 ($5.29)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [3s 2h]
+blackchair folds
+dimka9111 folds
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva (button) folded on the Pre-Flop
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.07
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756963324 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:37:22 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: Lumble ($9.69)
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.14)
+Seat 5: blackchair ($6.66)
+Seat 6: dimka9111 ($5.29)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [As Js]
+dimka9111 folds
+Lumble folds
+acesonriva folds
+NowBendOver folds
+sublime finisher calls $0.03
+blackchair raises $0.07 to $0.12
+sublime finisher calls $0.07
+*** FLOP *** [2h 4h Qc]
+Main pot $0.23 | Rake $0.01
+sublime finisher checks
+blackchair bets $0.12
+sublime finisher calls $0.12
+*** TURN *** [2h 4h Qc] [3c]
+Main pot $0.46 | Rake $0.02
+sublime finisher checks
+blackchair checks
+*** RIVER *** [2h 4h Qc 3c] [5d]
+Main pot $0.46 | Rake $0.02
+sublime finisher bets $0.48
+blackchair calls $0.48
+*** SHOW DOWN ***
+Main pot $1.37 | Rake $0.07
+sublime finisher shows [6s 5s] (a straight, Six high [6s 5s 4h 3c 2h])
+blackchair shows [As Js] (a straight, Five high [5d 4h 3c 2h As])
+sublime finisher collected $1.37 from main pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.05 | JP Fee $0.02
+Board [2h 4h Qc 3c 5d]
+Seat 1: Lumble folded on the Pre-Flop and did not bet
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) showed [6s 5s] and won $1.37 with a straight, Six high [6s 5s 4h 3c 2h]
+Seat 5: blackchair (big blind) showed [As Js] and lost with a straight, Five high [5d 4h 3c 2h As]
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756964375 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:38:06 UTC
+Patterson 6-max Seat #4 is the button
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.79)
+Seat 5: blackchair ($5.94)
+Seat 6: dimka9111 ($5.29)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [5d 6s]
+acesonriva folds
+NowBendOver raises $0.14 to $0.14
+sublime finisher folds
+blackchair calls $0.12
+dimka9111 folds
+*** FLOP *** [9h 3s Jc]
+Main pot $0.32 | Rake $0.01
+blackchair checks
+NowBendOver checks
+*** TURN *** [9h 3s Jc] [Kd]
+Main pot $0.32 | Rake $0.01
+blackchair checks
+NowBendOver bets $0.16
+blackchair folds
+Uncalled bet ($0.16) returned to NowBendOver
+NowBendOver does not show
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [9h 3s Jc Kd]
+Seat 2: acesonriva folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver did not show and won $0.32
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Turn
+Seat 6: dimka9111 (big blind) folded on the Pre-Flop
+
+Hand #1756965485 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:38:52 UTC
+Patterson 6-max Seat #5 is the button
+Seat 2: acesonriva ($2.29)
+Seat 3: NowBendOver ($5.18)
+Seat 4: sublime finisher ($5.79)
+Seat 5: blackchair ($5.80)
+Seat 6: dimka9111 ($5.24)
+dimka9111 posts the small blind $0.02
+acesonriva sits out
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Td 4h]
+sublime finisher raises $0.14 to $0.14
+blackchair folds
+dimka9111 calls $0.12
+NowBendOver calls $0.09
+*** FLOP *** [3c Jc 5c]
+Main pot $0.40 | Rake $0.02
+dimka9111 checks
+NowBendOver checks
+sublime finisher bets $0.31
+dimka9111 folds
+NowBendOver folds
+Uncalled bet ($0.31) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02
+Board [3c Jc 5c]
+Seat 3: NowBendOver (big blind) folded on the Flop
+Seat 4: sublime finisher did not show and won $0.40
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: dimka9111 (small blind) folded on the Flop
+
+Hand #1756966333 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:39:27 UTC
+Patterson 6-max Seat #6 is the button
+Seat 2: Coolprezision will be allowed to play after the button
+Seat 3: NowBendOver ($5.04)
+Seat 4: sublime finisher ($6.05)
+Seat 5: blackchair ($5.80)
+Seat 6: dimka9111 ($5.10)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [9s 9d]
+blackchair raises $0.14 to $0.14
+dimka9111 folds
+NowBendOver folds
+sublime finisher calls $0.09
+*** FLOP *** [3c 4s Jh]
+Main pot $0.29 | Rake $0.01
+sublime finisher checks
+blackchair bets $0.15
+sublime finisher calls $0.15
+*** TURN *** [3c 4s Jh] [4c]
+Main pot $0.57 | Rake $0.03
+sublime finisher checks
+blackchair bets $0.17
+sublime finisher calls $0.17
+*** RIVER *** [3c 4s Jh 4c] [7h]
+Main pot $0.90 | Rake $0.04
+sublime finisher checks
+blackchair checks
+*** SHOW DOWN ***
+Main pot $0.90 | Rake $0.04
+sublime finisher shows [Qh Kh] (a pair of Fours [4s 4c Kh Qh Jh])
+blackchair shows [9s 9d] (two pair, Nines and Fours [9s 9d 4s 4c Jh])
+blackchair collected $0.90 from main pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04
+Board [3c 4s Jh 4c 7h]
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher (big blind) showed [Qh Kh] and lost with a pair of Fours [4s 4c Kh Qh Jh]
+Seat 5: blackchair showed [9s 9d] and won $0.90 with two pair, Nines and Fours [9s 9d 4s 4c Jh]
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756967392 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:40:13 UTC
+Patterson 6-max Seat #3 is the button
+Seat 2: Coolprezision ($5.00)
+Seat 3: NowBendOver ($5.02)
+Seat 4: sublime finisher ($5.59)
+Seat 5: blackchair ($6.24)
+Seat 6: dimka9111 ($5.10)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+Coolprezision waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [9h Ah]
+dimka9111 raises $0.10 to $0.10
+NowBendOver folds
+sublime finisher folds
+blackchair calls $0.05
+*** FLOP *** [3d 2s Jd]
+Main pot $0.21 | Rake $0.01
+blackchair checks
+dimka9111 checks
+*** TURN *** [3d 2s Jd] [5c]
+Main pot $0.21 | Rake $0.01
+blackchair checks
+dimka9111 checks
+*** RIVER *** [3d 2s Jd 5c] [6s]
+Main pot $0.21 | Rake $0.01
+blackchair bets $0.11
+dimka9111 calls $0.11
+*** SHOW DOWN ***
+Main pot $0.42 | Rake $0.02
+blackchair shows [9h Ah] (a high card, Ace high [Ah Jd 9h 6s 5c])
+dimka9111 shows [5s 5h] (three of a kind, Set of Fives [5s 5h 5c Jd 6s])
+dimka9111 collected $0.42 from main pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02
+Board [3d 2s Jd 5c 6s]
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) folded on the Pre-Flop
+Seat 5: blackchair (big blind) showed [9h Ah] and lost with a high card, Ace high [Ah Jd 9h 6s 5c]
+Seat 6: dimka9111 showed [5s 5h] and won $0.42 with three of a kind, Set of Fives [5s 5h 5c Jd 6s]
+
+Hand #1756968715 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:41:11 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: joaquin23 ($4.07)
+Seat 2: Coolprezision ($5.00)
+Seat 3: NowBendOver ($5.02)
+Seat 4: sublime finisher ($5.57)
+Seat 5: blackchair ($6.03)
+Seat 6: dimka9111 ($5.31)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+joaquin23 waits for big blind
+Coolprezision waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [5c 7d]
+NowBendOver folds
+sublime finisher raises $0.12 to $0.12
+blackchair calls $0.10
+dimka9111 folds
+*** FLOP *** [6s Js Td]
+Main pot $0.28 | Rake $0.01
+blackchair checks
+sublime finisher bets $0.21
+blackchair folds
+Uncalled bet ($0.21) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [6s Js Td]
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher did not show and won $0.28
+Seat 5: blackchair (small blind) folded on the Flop
+Seat 6: dimka9111 (big blind) folded on the Pre-Flop
+
+Hand #1756969551 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:41:47 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: joaquin23 ($4.07)
+Seat 2: Coolprezision ($5.00)
+Seat 3: NowBendOver ($5.02)
+Seat 4: sublime finisher ($5.73)
+Seat 5: blackchair ($5.91)
+Seat 6: dimka9111 ($5.26)
+dimka9111 posts the small blind $0.02
+joaquin23 posts the big blind $0.05
+Coolprezision waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [6h 7s]
+NowBendOver folds
+sublime finisher folds
+blackchair raises $0.14 to $0.14
+dimka9111 folds
+joaquin23 calls $0.09
+*** FLOP *** [2c Qs Th]
+Main pot $0.29 | Rake $0.01
+joaquin23 checks
+blackchair checks
+*** TURN *** [2c Qs Th] [7d]
+Main pot $0.29 | Rake $0.01
+joaquin23 bets $0.15
+blackchair calls $0.15
+*** RIVER *** [2c Qs Th 7d] [8d]
+Main pot $0.57 | Rake $0.03
+joaquin23 bets $0.30
+blackchair calls $0.30
+*** SHOW DOWN ***
+Main pot $1.14 | Rake $0.06
+joaquin23 shows [2d 2h] (three of a kind, Set of Deuces [2h 2d 2c Qs Th])
+blackchair shows [6h 7s] (a pair of Sevens [7s 7d Qs Th 8d])
+joaquin23 collected $1.14 from main pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.04 | JP Fee $0.02
+Board [2c Qs Th 7d 8d]
+Seat 1: joaquin23 (big blind) showed [2d 2h] and won $1.14 with three of a kind, Set of Deuces [2h 2d 2c Qs Th]
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) showed [6h 7s] and lost with a pair of Sevens [7s 7d Qs Th 8d]
+Seat 6: dimka9111 (small blind) folded on the Pre-Flop
+
+Hand #1756970723 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:42:37 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: joaquin23 ($4.62)
+Seat 2: Coolprezision ($5.00)
+Seat 3: NowBendOver ($5.02)
+Seat 4: sublime finisher ($5.73)
+Seat 5: blackchair ($5.32)
+Seat 6: dimka9111 ($5.24)
+joaquin23 posts the small blind $0.02
+Coolprezision posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [7h 7s]
+NowBendOver folds
+sublime finisher folds
+blackchair raises $0.12 to $0.12
+dimka9111 folds
+joaquin23 folds
+Coolprezision folds
+Uncalled bet ($0.07) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: joaquin23 (small blind) folded on the Pre-Flop
+Seat 2: Coolprezision (big blind) folded on the Pre-Flop
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.12
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756971310 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:43:02 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: joaquin23 ($4.60)
+Seat 2: Coolprezision ($5.00)
+Seat 3: NowBendOver ($5.02)
+Seat 4: sublime finisher ($5.73)
+Seat 5: blackchair ($5.39)
+Seat 6: dimka9111 ($5.24)
+Coolprezision posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Jh 5c]
+sublime finisher raises $0.12 to $0.12
+blackchair folds
+dimka9111 folds
+joaquin23 folds
+Coolprezision folds
+NowBendOver folds
+Uncalled bet ($0.07) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: joaquin23 (button) folded on the Pre-Flop
+Seat 2: Coolprezision (small blind) folded on the Pre-Flop
+Seat 3: NowBendOver (big blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.12
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756971980 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:43:32 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: joaquin23 ($4.60)
+Seat 2: Coolprezision ($5.00)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.80)
+Seat 5: blackchair ($5.39)
+Seat 6: dimka9111 ($5.24)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [6d Ts]
+blackchair folds
+dimka9111 raises $0.14 to $0.14
+joaquin23 folds
+Coolprezision calls $0.14
+NowBendOver folds
+sublime finisher folds
+*** FLOP *** [5h 5s Jc]
+Main pot $0.34 | Rake $0.01
+dimka9111 bets $0.17
+Coolprezision calls $0.17
+*** TURN *** [5h 5s Jc] [Ac]
+Main pot $0.66 | Rake $0.03
+dimka9111 checks
+Coolprezision checks
+*** RIVER *** [5h 5s Jc Ac] [Jh]
+Main pot $0.66 | Rake $0.03
+dimka9111 checks
+Coolprezision bets $0.25
+dimka9111 folds
+Uncalled bet ($0.25) returned to Coolprezision
+Coolprezision does not show
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.03
+Board [5h 5s Jc Ac Jh]
+Seat 1: joaquin23 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision did not show and won $0.66
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher (big blind) folded on the Pre-Flop
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the River
+
+Hand #1756973779 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:44:48 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: joaquin23 ($4.60)
+Seat 2: Coolprezision ($5.35)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.75)
+Seat 5: blackchair ($5.39)
+Seat 6: dimka9111 ($4.93)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ah Qd]
+dimka9111 folds
+joaquin23 folds
+Coolprezision folds
+NowBendOver folds
+sublime finisher raises $0.13 to $0.15
+blackchair calls $0.10
+*** FLOP *** [6c 8c Kh]
+Main pot $0.29 | Rake $0.01
+sublime finisher bets $0.15
+blackchair calls $0.15
+*** TURN *** [6c 8c Kh] [Kc]
+Main pot $0.57 | Rake $0.03
+sublime finisher checks
+blackchair bets $0.45
+sublime finisher raises $1.57 to $1.57
+blackchair folds
+Uncalled bet ($1.12) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 | JP Fee $0.02
+Board [6c 8c Kh Kc]
+Seat 1: joaquin23 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $1.43
+Seat 5: blackchair (big blind) folded on the Turn
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756975325 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:45:58 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: joaquin23 ($4.60)
+Seat 2: Coolprezision ($5.35)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($6.43)
+Seat 5: blackchair ($4.64)
+Seat 6: dimka9111 ($4.93)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [9c Th]
+joaquin23 folds
+Coolprezision folds
+NowBendOver folds
+sublime finisher folds
+blackchair calls $0.03
+dimka9111 checks
+*** FLOP *** [3d 9d Ks]
+Main pot $0.10 | Rake $0.00
+blackchair checks
+dimka9111 bets $0.05
+blackchair calls $0.05
+*** TURN *** [3d 9d Ks] [Ad]
+Main pot $0.19 | Rake $0.01
+blackchair checks
+dimka9111 checks
+*** RIVER *** [3d 9d Ks Ad] [6s]
+Main pot $0.19 | Rake $0.01
+blackchair checks
+dimka9111 checks
+*** SHOW DOWN ***
+Main pot $0.19 | Rake $0.01
+blackchair shows [9c Th] (a pair of Nines [9d 9c Ad Ks Th])
+dimka9111 shows [Kc 4d] (a pair of Kings [Ks Kc Ad 9d 6s])
+dimka9111 collected $0.19 from main pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [3d 9d Ks Ad 6s]
+Seat 1: joaquin23 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) showed [9c Th] and lost with a pair of Nines [9d 9c Ad Ks Th]
+Seat 6: dimka9111 (big blind) showed [Kc 4d] and won $0.19 with a pair of Kings [Ks Kc Ad 9d 6s]
+
+Hand #1756976884 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:47:05 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: joaquin23 ($4.60)
+Seat 2: Coolprezision ($5.35)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($6.43)
+Seat 5: blackchair ($4.54)
+Seat 6: dimka9111 ($5.02)
+dimka9111 posts the small blind $0.02
+joaquin23 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [8s 8h]
+Coolprezision folds
+NowBendOver folds
+sublime finisher folds
+blackchair raises $0.11 to $0.11
+dimka9111 folds
+joaquin23 calls $0.06
+*** FLOP *** [2s 8c 2h]
+Main pot $0.23 | Rake $0.01
+joaquin23 bets $0.06
+blackchair calls $0.06
+*** TURN *** [2s 8c 2h] [Kc]
+Main pot $0.35 | Rake $0.01
+joaquin23 bets $0.18
+blackchair calls $0.18
+*** RIVER *** [2s 8c 2h Kc] [Ks]
+Main pot $0.69 | Rake $0.03
+joaquin23 bets $0.24
+blackchair raises $0.84 to $0.84
+joaquin23 calls $0.60
+*** SHOW DOWN ***
+Main pot $2.28 | Rake $0.12
+joaquin23 shows [9h Kd] (a full house, Kings full of Deuces [Ks Kd Kc 2s 2h])
+blackchair shows [8s 8h] (a full house, Eights full of Kings [8s 8h 8c Ks Kc])
+joaquin23 collected $2.28 from main pot
+*** SUMMARY ***
+Total pot $2.28 | Rake $0.08 | JP Fee $0.04
+Board [2s 8c 2h Kc Ks]
+Seat 1: joaquin23 (big blind) showed [9h Kd] and won $2.28 with a full house, Kings full of Deuces [Ks Kd Kc 2s 2h]
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) showed [8s 8h] and lost with a full house, Eights full of Kings [8s 8h 8c Ks Kc]
+Seat 6: dimka9111 (small blind) folded on the Pre-Flop
+
+Hand #1756978995 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:48:37 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: joaquin23 ($5.69)
+Seat 2: Coolprezision ($5.35)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($6.43)
+Seat 5: blackchair ($3.35)
+Seat 6: dimka9111 ($5.00)
+joaquin23 posts the small blind $0.02
+Coolprezision posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [8c 2c]
+NowBendOver folds
+sublime finisher raises $0.12 to $0.12
+blackchair folds
+dimka9111 folds
+joaquin23 folds
+Coolprezision folds
+Uncalled bet ($0.07) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: joaquin23 (small blind) folded on the Pre-Flop
+Seat 2: Coolprezision (big blind) folded on the Pre-Flop
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher did not show and won $0.12
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756979687 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:49:06 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: joaquin23 ($5.67)
+Seat 2: Coolprezision ($5.30)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($6.50)
+Seat 5: blackchair ($3.35)
+Seat 6: dimka9111 ($5.00)
+Coolprezision posts the small blind $0.02
+NowBendOver posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ks 6d]
+sublime finisher calls $0.05
+blackchair folds
+dimka9111 folds
+joaquin23 raises $0.16 to $0.16
+Coolprezision folds
+NowBendOver folds
+sublime finisher calls $0.11
+*** FLOP *** [4h 5c 6h]
+Main pot $0.38 | Rake $0.01
+sublime finisher checks
+joaquin23 bets $0.11
+sublime finisher calls $0.11
+*** TURN *** [4h 5c 6h] [5s]
+Main pot $0.58 | Rake $0.03
+sublime finisher checks
+joaquin23 checks
+*** RIVER *** [4h 5c 6h 5s] [Ts]
+Main pot $0.58 | Rake $0.03
+sublime finisher bets $0.45
+joaquin23 calls $0.45
+*** SHOW DOWN ***
+Main pot $1.44 | Rake $0.07
+joaquin23 shows [9s 9d] (two pair, Nines and Fives [9s 9d 5s 5c Ts])
+sublime finisher shows [Kc 3c] (a pair of Fives [5s 5c Kc Ts 6h])
+joaquin23 collected $1.44 from main pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 | JP Fee $0.02
+Board [4h 5c 6h 5s Ts]
+Seat 1: joaquin23 (button) showed [9s 9d] and won $1.44 with two pair, Nines and Fives [9s 9d 5s 5c Ts]
+Seat 2: Coolprezision (small blind) folded on the Pre-Flop
+Seat 3: NowBendOver (big blind) folded on the Pre-Flop
+Seat 4: sublime finisher showed [Kc 3c] and lost with a pair of Fives [5s 5c Kc Ts 6h]
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756981201 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:50:13 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: joaquin23 ($6.39)
+Seat 2: Coolprezision ($5.28)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.78)
+Seat 5: blackchair ($3.35)
+Seat 6: dimka9111 ($5.00)
+NowBendOver posts the small blind $0.02
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Js Kh]
+blackchair raises $0.12 to $0.12
+dimka9111 folds
+joaquin23 folds
+Coolprezision folds
+NowBendOver folds
+sublime finisher calls $0.07
+*** FLOP *** [8d 9d 9h]
+Main pot $0.25 | Rake $0.01
+sublime finisher checks
+blackchair checks
+*** TURN *** [8d 9d 9h] [2s]
+Main pot $0.25 | Rake $0.01
+sublime finisher checks
+blackchair bets $0.13
+sublime finisher calls $0.13
+*** RIVER *** [8d 9d 9h 2s] [As]
+Main pot $0.50 | Rake $0.02
+sublime finisher checks
+blackchair bets $0.28
+sublime finisher folds
+Uncalled bet ($0.28) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02
+Board [8d 9d 9h 2s As]
+Seat 1: joaquin23 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision (button) folded on the Pre-Flop
+Seat 3: NowBendOver (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher (big blind) folded on the River
+Seat 5: blackchair did not show and won $0.50
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756982494 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:51:10 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: joaquin23 ($6.39)
+Seat 2: Coolprezision ($5.28)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.53)
+Seat 5: blackchair ($3.60)
+Seat 6: dimka9111 ($5.00)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ac Th]
+dimka9111 folds
+joaquin23 folds
+Coolprezision folds
+NowBendOver folds
+sublime finisher calls $0.03
+blackchair raises $0.07 to $0.12
+sublime finisher calls $0.07
+*** FLOP *** [Ah 2d Qs]
+Main pot $0.23 | Rake $0.01
+sublime finisher bets $0.12
+blackchair calls $0.12
+*** TURN *** [Ah 2d Qs] [7c]
+Main pot $0.46 | Rake $0.02
+sublime finisher checks
+blackchair bets $0.18
+sublime finisher calls $0.18
+*** RIVER *** [Ah 2d Qs 7c] [7h]
+Main pot $0.80 | Rake $0.04
+sublime finisher checks
+blackchair bets $0.46
+sublime finisher folds
+Uncalled bet ($0.46) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04
+Board [Ah 2d Qs 7c 7h]
+Seat 1: joaquin23 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) folded on the River
+Seat 5: blackchair did not show and won $0.80
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756983968 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:52:15 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: joaquin23 ($6.39)
+Seat 2: Coolprezision ($5.28)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.11)
+Seat 5: blackchair ($3.98)
+Seat 6: dimka9111 ($5.00)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ts 7c]
+joaquin23 raises $0.12 to $0.12
+Coolprezision folds
+NowBendOver folds
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Uncalled bet ($0.07) returned to joaquin23
+joaquin23 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: joaquin23 did not show and won $0.12
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: dimka9111 (big blind) folded on the Pre-Flop
+
+Hand #1756984720 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:52:49 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: joaquin23 ($6.46)
+Seat 2: Coolprezision ($5.28)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.11)
+Seat 5: blackchair ($3.96)
+Seat 6: dimka9111 ($4.95)
+dimka9111 posts the small blind $0.02
+joaquin23 sits out
+Coolprezision posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ac Ah]
+NowBendOver folds
+sublime finisher folds
+blackchair raises $0.11 to $0.11
+dimka9111 calls $0.09
+Coolprezision folds
+*** FLOP *** [Th Jd 9s]
+Main pot $0.26 | Rake $0.01
+dimka9111 checks
+blackchair bets $0.08
+dimka9111 folds
+Uncalled bet ($0.08) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01
+Board [Th Jd 9s]
+Seat 2: Coolprezision (big blind) folded on the Pre-Flop
+Seat 3: NowBendOver folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.26
+Seat 6: dimka9111 (small blind) folded on the Flop
+
+Hand #1756986069 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:53:50 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: dextrose12 will be allowed to play after the button
+Seat 2: Coolprezision ($5.23)
+Seat 3: NowBendOver ($5.00)
+Seat 4: sublime finisher ($5.11)
+Seat 5: blackchair ($4.11)
+Seat 6: dimka9111 ($4.84) is sitting out
+Coolprezision posts the small blind $0.02
+NowBendOver sits out
+sublime finisher posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [7d As]
+blackchair calls $0.05
+Coolprezision folds
+sublime finisher checks
+*** FLOP *** [6s 3s 4d]
+Main pot $0.12 | Rake $0.00
+sublime finisher checks
+blackchair checks
+*** TURN *** [6s 3s 4d] [9d]
+Main pot $0.12 | Rake $0.00
+sublime finisher checks
+blackchair bets $0.06
+sublime finisher calls $0.06
+*** RIVER *** [6s 3s 4d 9d] [2c]
+Main pot $0.23 | Rake $0.01
+sublime finisher bets $1.57
+blackchair folds
+Uncalled bet ($1.57) returned to sublime finisher
+sublime finisher does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [6s 3s 4d 9d 2c]
+Seat 2: Coolprezision (small blind) folded on the Pre-Flop
+Seat 4: sublime finisher did not show and won $0.23
+Seat 5: blackchair folded on the River
+
+Hand #1756987364 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:54:49 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: dextrose12 ($5.00)
+Seat 2: Coolprezision ($5.21)
+Seat 3: emilio72 will be allowed to play after the button
+Seat 4: sublime finisher ($5.23)
+Seat 5: blackchair ($4.00)
+Seat 6: dimka9111 ($4.84)
+sublime finisher posts the small blind $0.02
+blackchair posts the big blind $0.05
+dextrose12 waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [3c Tc]
+dimka9111 folds
+Coolprezision folds
+sublime finisher folds
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 2: Coolprezision (button) folded on the Pre-Flop
+Seat 4: sublime finisher (small blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.07
+Seat 6: dimka9111 folded on the Pre-Flop and did not bet
+
+Hand #1756987680 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:55:08 UTC
+Patterson 6-max Seat #4 is the button
+Seat 1: dextrose12 ($5.00)
+Seat 2: Coolprezision ($5.21)
+Seat 3: emilio72 ($2.00)
+Seat 4: sublime finisher ($5.21)
+Seat 5: blackchair ($4.02)
+Seat 6: dimka9111 ($4.84)
+blackchair posts the small blind $0.02
+dimka9111 posts the big blind $0.05
+dextrose12 waits for big blind
+emilio72 posts $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [5c 3s]
+Coolprezision folds
+emilio72 checks
+sublime finisher calls $0.05
+blackchair calls $0.03
+dimka9111 checks
+*** FLOP *** [3d Ks 7c]
+Main pot $0.19 | Rake $0.01
+blackchair checks
+dimka9111 checks
+emilio72 bets $0.13
+sublime finisher folds
+blackchair folds
+dimka9111 folds
+Uncalled bet ($0.13) returned to emilio72
+emilio72 shows [- Kd]
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [3d Ks 7c]
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: emilio72 showed [- Kd] and won $0.19
+Seat 4: sublime finisher (button) folded on the Flop
+Seat 5: blackchair (small blind) folded on the Flop
+Seat 6: dimka9111 (big blind) folded on the Flop
+
+Hand #1756988432 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:56:25 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: dextrose12 ($5.00)
+Seat 2: Coolprezision ($5.21)
+Seat 3: emilio72 ($2.14)
+Seat 4: sublime finisher ($5.16)
+Seat 5: blackchair ($3.97)
+Seat 6: dimka9111 ($4.79)
+dimka9111 posts the small blind $0.02
+dextrose12 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2h Ac]
+Coolprezision folds
+emilio72 folds
+sublime finisher raises $0.11 to $0.11
+blackchair calls $0.11
+dimka9111 folds
+dextrose12 calls $0.06
+*** FLOP *** [Kh 4d Jh]
+Main pot $0.34 | Rake $0.01
+dextrose12 bets $0.17
+sublime finisher raises $0.43 to $0.43
+blackchair folds
+dextrose12 raises $1.47 to $1.64
+sublime finisher folds
+Uncalled bet ($1.21) returned to dextrose12
+dextrose12 does not show
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.04 | JP Fee $0.02
+Board [Kh 4d Jh]
+Seat 1: dextrose12 did not show and won $1.15
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: emilio72 folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher folded on the Flop
+Seat 5: blackchair (button) folded on the Flop
+Seat 6: dimka9111 (small blind) folded on the Pre-Flop
+
+Hand #1756989095 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:57:32 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: dextrose12 ($5.61)
+Seat 2: Coolprezision ($5.21)
+Seat 3: emilio72 ($2.14)
+Seat 4: sublime finisher ($4.62)
+Seat 5: blackchair ($3.86)
+Seat 6: dimka9111 ($4.77)
+dextrose12 posts the small blind $0.02
+Coolprezision posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Kd Qs]
+emilio72 folds
+sublime finisher raises $0.14 to $0.14
+blackchair calls $0.14
+dimka9111 folds
+dextrose12 folds
+Coolprezision calls $0.09
+*** FLOP *** [3c 6s Tc]
+Main pot $0.42 | Rake $0.02
+Coolprezision checks
+sublime finisher bets $0.33
+blackchair folds
+Coolprezision calls $0.33
+*** TURN *** [3c 6s Tc] [Kc]
+Main pot $1.05 | Rake $0.05
+Coolprezision checks
+sublime finisher bets $0.82
+Coolprezision calls $0.82
+*** RIVER *** [3c 6s Tc Kc] [8h]
+Main pot $2.61 | Rake $0.13
+Coolprezision checks
+sublime finisher checks
+*** SHOW DOWN ***
+Main pot $2.61 | Rake $0.13
+Coolprezision shows [5c 7c] (a flush, King high [Kc Tc 7c 5c 3c])
+sublime finisher shows [Ah 6d] (a pair of Sixs [6s 6d Ah Kc Tc])
+Coolprezision collected $2.61 from main pot
+*** SUMMARY ***
+Total pot $2.61 | Rake $0.09 | JP Fee $0.04
+Board [3c 6s Tc Kc 8h]
+Seat 1: dextrose12 (small blind) folded on the Pre-Flop
+Seat 2: Coolprezision (big blind) showed [5c 7c] and won $2.61 with a flush, King high [Kc Tc 7c 5c 3c]
+Seat 3: emilio72 folded on the Pre-Flop and did not bet
+Seat 4: sublime finisher showed [Ah 6d] and lost with a pair of Sixs [6s 6d Ah Kc Tc]
+Seat 5: blackchair folded on the Flop
+Seat 6: dimka9111 (button) folded on the Pre-Flop
+
+Hand #1756989968 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 02:59:00 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: dextrose12 ($5.59)
+Seat 2: Coolprezision ($6.53)
+Seat 3: emilio72 ($2.14)
+Seat 4: sublime finisher ($3.33)
+Seat 5: blackchair ($3.72)
+Coolprezision posts the small blind $0.02
+emilio72 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [6d 8h]
+sublime finisher raises $0.14 to $0.14
+blackchair calls $0.14
+dextrose12 folds
+Coolprezision raises $0.59 to $0.61
+emilio72 folds
+sublime finisher calls $0.47
+blackchair calls $0.47
+*** FLOP *** [Th Jh 3h]
+Main pot $1.79 | Rake $0.09
+Coolprezision bets $5.92 and is all-in
+sublime finisher calls $2.72 and is all-in
+blackchair folds
+Uncalled bet ($3.20) returned to Coolprezision
+*** TURN *** [Th Jh 3h] [Js]
+Main pot $6.96 | Rake $0.36
+*** RIVER *** [Th Jh 3h Js] [6c]
+Main pot $6.96 | Rake $0.36
+*** SHOW DOWN ***
+Main pot $6.96 | Rake $0.36
+Coolprezision shows [Tc Td] (a full house, Tens full of Jacks [Th Td Tc Js Jh])
+sublime finisher shows [Ks Qs] (a pair of Jacks [Js Jh Ks Qs Th])
+Coolprezision cashed out hand for $5.08 | Cash Out Fee $0.05
+*** SUMMARY ***
+Total pot $6.96 | Rake $0.24 | JP Fee $0.12
+Board [Th Jh 3h Js 6c]
+Seat 1: dextrose12 (button) folded on the Pre-Flop
+Seat 2: Coolprezision (small blind) showed [Tc Td] and won $6.96 with a full house, Tens full of Jacks [Th Td Tc Js Jh] (pot not awarded as player cashed out)
+Seat 3: emilio72 (big blind) folded on the Pre-Flop
+Seat 4: sublime finisher showed [Ks Qs] and lost with a pair of Jacks [Js Jh Ks Qs Th]
+Seat 5: blackchair folded on the Flop
+
+Hand #1756990517 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 03:00:00 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: dextrose12 ($5.59)
+Seat 2: Coolprezision ($8.28)
+Seat 3: emilio72 ($2.09)
+Seat 5: blackchair ($3.11)
+Seat 6: osjaguar1 ($5.00)
+emilio72 posts the small blind $0.02
+blackchair posts the big blind $0.05
+osjaguar1 waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [3h 2s]
+dextrose12 folds
+Coolprezision raises $0.12 to $0.12
+emilio72 folds
+blackchair calls $0.07
+*** FLOP *** [Tc 5h 2c]
+Main pot $0.25 | Rake $0.01
+blackchair checks
+Coolprezision checks
+*** TURN *** [Tc 5h 2c] [6s]
+Main pot $0.25 | Rake $0.01
+blackchair bets $0.19
+Coolprezision folds
+Uncalled bet ($0.19) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [Tc 5h 2c 6s]
+Seat 1: dextrose12 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision (button) folded on the Turn
+Seat 3: emilio72 (small blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.25
+
+Hand #1756991032 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 03:00:48 UTC
+Patterson 6-max Seat #3 is the button
+Seat 1: dextrose12 ($5.59)
+Seat 2: Coolprezision ($8.16)
+Seat 3: emilio72 ($2.07)
+Seat 5: blackchair ($3.24)
+Seat 6: osjaguar1 ($5.00)
+blackchair posts the small blind $0.02
+osjaguar1 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [Ad Qc]
+dextrose12 folds
+Coolprezision folds
+emilio72 calls $0.05
+blackchair raises $0.10 to $0.12
+osjaguar1 calls $0.07
+emilio72 folds
+*** FLOP *** [Jh 3d 8c]
+Main pot $0.28 | Rake $0.01
+blackchair checks
+osjaguar1 bets $0.09
+blackchair calls $0.09
+*** TURN *** [Jh 3d 8c] [5c]
+Main pot $0.45 | Rake $0.02
+blackchair checks
+osjaguar1 checks
+*** RIVER *** [Jh 3d 8c 5c] [2c]
+Main pot $0.45 | Rake $0.02
+blackchair checks
+osjaguar1 checks
+*** SHOW DOWN ***
+Main pot $0.45 | Rake $0.02
+blackchair shows [Ad Qc] (a high card, Ace high [Ad Qc Jh 8c 5c])
+osjaguar1 shows [Kd 5d] (a pair of Fives [5d 5c Kd Jh 8c])
+osjaguar1 collected $0.45 from main pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [Jh 3d 8c 5c 2c]
+Seat 1: dextrose12 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: emilio72 (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) showed [Ad Qc] and lost with a high card, Ace high [Ad Qc Jh 8c 5c]
+Seat 6: osjaguar1 (big blind) showed [Kd 5d] and won $0.45 with a pair of Fives [5d 5c Kd Jh 8c]
+
+Hand #1756992376 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 03:02:06 UTC
+Patterson 6-max Seat #5 is the button
+Seat 1: dextrose12 ($5.59)
+Seat 2: Coolprezision ($8.16)
+Seat 3: emilio72 ($2.02)
+Seat 5: blackchair ($3.03)
+Seat 6: osjaguar1 ($5.24)
+osjaguar1 posts the small blind $0.02
+dextrose12 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [8s Ac]
+Coolprezision folds
+emilio72 raises $0.10 to $0.10
+blackchair calls $0.10
+osjaguar1 folds
+dextrose12 calls $0.05
+*** FLOP *** [9h 3s 3d]
+Main pot $0.31 | Rake $0.01
+dextrose12 bets $0.16
+emilio72 calls $0.16
+blackchair folds
+*** TURN *** [9h 3s 3d] [4s]
+Main pot $0.61 | Rake $0.03
+dextrose12 bets $0.32
+emilio72 folds
+Uncalled bet ($0.32) returned to dextrose12
+dextrose12 does not show
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.03
+Board [9h 3s 3d 4s]
+Seat 1: dextrose12 did not show and won $0.61
+Seat 2: Coolprezision folded on the Pre-Flop and did not bet
+Seat 3: emilio72 folded on the Turn
+Seat 5: blackchair (button) folded on the Flop
+Seat 6: osjaguar1 (small blind) folded on the Pre-Flop
+
+Hand #1756993423 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 03:03:07 UTC
+Patterson 6-max Seat #6 is the button
+Seat 1: dextrose12 ($5.94)
+Seat 2: Coolprezision ($8.16)
+Seat 3: emilio72 ($1.76)
+Seat 4: Ovenn ($5.00)
+Seat 5: blackchair ($2.93)
+Seat 6: osjaguar1 ($5.22)
+dextrose12 posts the small blind $0.02
+Coolprezision posts the big blind $0.05
+Ovenn waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [2s Tc]
+emilio72 folds
+blackchair folds
+osjaguar1 folds
+dextrose12 folds
+Coolprezision does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: dextrose12 (small blind) folded on the Pre-Flop
+Seat 2: Coolprezision did not show and won $0.07
+Seat 3: emilio72 folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: osjaguar1 (button) folded on the Pre-Flop
+
+Hand #1756994277 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 03:03:42 UTC
+Patterson 6-max Seat #1 is the button
+Seat 1: dextrose12 ($5.92)
+Seat 2: Coolprezision ($8.18)
+Seat 3: emilio72 ($1.76)
+Seat 4: Ovenn ($5.00)
+Seat 5: blackchair ($2.93)
+Seat 6: osjaguar1 ($5.22)
+Coolprezision posts the small blind $0.02
+emilio72 posts the big blind $0.05
+Ovenn waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [6c Kc]
+blackchair raises $0.14 to $0.14
+osjaguar1 folds
+dextrose12 folds
+Coolprezision folds
+emilio72 calls $0.09
+*** FLOP *** [3h 7c 9s]
+Main pot $0.29 | Rake $0.01
+emilio72 bets $0.15
+blackchair calls $0.15
+*** TURN *** [3h 7c 9s] [Td]
+Main pot $0.57 | Rake $0.03
+emilio72 bets $1.47 and is all-in
+blackchair folds
+Uncalled bet ($1.47) returned to emilio72
+emilio72 does not show
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [3h 7c 9s Td]
+Seat 1: dextrose12 (button) folded on the Pre-Flop
+Seat 2: Coolprezision (small blind) folded on the Pre-Flop
+Seat 3: emilio72 did not show and won $0.57
+Seat 5: blackchair folded on the Turn
+Seat 6: osjaguar1 folded on the Pre-Flop and did not bet
+
+Hand #1756995239 - Holdem(No Limit) - $0.02/$0.05 - 2023/06/25 03:04:30 UTC
+Patterson 6-max Seat #2 is the button
+Seat 1: dextrose12 ($5.92)
+Seat 2: Coolprezision ($8.16)
+Seat 3: emilio72 ($2.04)
+Seat 4: Ovenn ($5.00)
+Seat 5: blackchair ($2.64)
+Seat 6: osjaguar1 ($5.22)
+emilio72 posts the small blind $0.02
+Ovenn posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to blackchair [2s 2h]
+blackchair raises $0.14 to $0.14
+osjaguar1 folds
+dextrose12 folds
+Coolprezision calls $0.14
+emilio72 folds
+Ovenn folds
+*** FLOP *** [Td 2c 9h]
+Main pot $0.34 | Rake $0.01
+blackchair checks
+Coolprezision bets $0.17
+blackchair calls $0.17
+*** TURN *** [Td 2c 9h] [5h]
+Main pot $0.66 | Rake $0.03
+blackchair checks
+Coolprezision bets $0.34
+blackchair calls $0.34
+*** RIVER *** [Td 2c 9h 5h] [Tc]
+Main pot $1.31 | Rake $0.06
+blackchair checks
+Coolprezision bets $7.51 and is all-in
+blackchair calls $1.99 and is all-in
+Uncalled bet ($5.52) returned to Coolprezision
+*** SHOW DOWN ***
+Main pot $5.09 | Rake $0.26
+Coolprezision shows [5d 5c] (a full house, Fives full of Tens [5h 5d 5c Td Tc])
+blackchair shows [2s 2h] (a full house, Deuces full of Tens [2s 2h 2c Td Tc])
+Coolprezision collected $5.09 from main pot
+*** SUMMARY ***
+Total pot $5.09 | Rake $0.18 | JP Fee $0.08
+Board [Td 2c 9h 5h Tc]
+Seat 1: dextrose12 folded on the Pre-Flop and did not bet
+Seat 2: Coolprezision (button) showed [5d 5c] and won $5.09 with a full house, Fives full of Tens [5h 5d 5c Td Tc]
+Seat 3: emilio72 (small blind) folded on the Pre-Flop
+Seat 4: Ovenn (big blind) folded on the Pre-Flop
+Seat 5: blackchair showed [2s 2h] and lost with a full house, Deuces full of Tens [2s 2h 2c Td Tc]
+Seat 6: osjaguar1 folded on the Pre-Flop and did not bet
+

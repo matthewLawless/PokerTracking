@@ -47,12 +47,23 @@ public abstract class Hand {
       */
      private Player[] playersAtTable;
 
+
+
+
+
      /**
       * An array containing all of the players dealt cards (AKA not sitting out or waiting for BB) in the hand
       * the player at seat 1 should be in index 0, seat 2 should be at index 1 and so on. when a player folds
       * , lets say the player in seat 2, index 1 is just null
       */
      private Player[] playersInHand;
+     //^^^ i think this is stupid now
+
+
+
+
+
+
 
      /**
       * The final size of the pot before it is awarded to the winner. 
@@ -121,19 +132,30 @@ public abstract class Hand {
       * and if we ever want to replay the hands in a GUI. should be added to every time
       * an event in the hand occurs.
       */
-     protected LinkedList<String> action;
+     protected LinkedList<String> action = new LinkedList<String>();
 
 
-     public Hand(){};
+     public Hand(){
+
+        //default constructor;
+
+     }
 
      public Hand(int handID, String stakes, String date, String time, String tableName, int numberOfSeatsAtTable){
 
         this.handID = handID;
-        this.stakes = stakes;
+
+        int splitIndex = stakes.indexOf('/');
+        String tempSB = stakes.substring(1, splitIndex);
+        String tempBB = stakes.substring(splitIndex + 2, stakes.length());
+        this.SB = Double.parseDouble(tempSB);
+        this.BB = Double.parseDouble(tempBB);
+
         this.date = date;
         this.time = time;
         this.tableName = tableName;
         this.numberOfSeatsAtTable = numberOfSeatsAtTable;
+        this.playersAtTable = new Player[numberOfSeatsAtTable];
 
      }
 
@@ -211,7 +233,7 @@ public abstract class Hand {
      * returns a list of all the players sitting at the table
      * @return
      */
-    private Player[] getPlayersAtTable(){
+    protected Player[] getPlayersAtTable(){
 
         return playersAtTable;
 
@@ -223,7 +245,7 @@ public abstract class Hand {
      * @param p
      * @param s
      */
-    private void setPlayerToSeat(Player p, int s){
+    protected void setPlayerToSeat(Player p, int s){
 
         //array shows [0 1 2 3 4 5]
         //reality [1 2 3 4 5 6]
@@ -252,6 +274,11 @@ public abstract class Hand {
     private void setPlayerInHand(Player p, boolean b){
 
         p.setInHand(b);
+
+        //
+        //looking back, i think this method is stupid. and I also think that the 
+        //playerinHand array is stupid
+        //
 
     }
 
@@ -460,7 +487,7 @@ public abstract class Hand {
      * @param p
      * @param amount
      */
-    private void bets(Player p, double amount){
+    protected void bets(Player p, double amount){
 
 
 
@@ -476,9 +503,11 @@ public abstract class Hand {
      * 
      * @param p
      */
-    private void calls(Player p){
+    protected void calls(Player p, double amount){
 
-
+        p.negateStack(amount);
+        this.potSize += amount;
+        action.add(p + " calls " + amount);
 
     }
 
@@ -489,9 +518,10 @@ public abstract class Hand {
      * 
      * @param p
      */
-    private void folds(Player p){
+    protected void folds(Player p){
 
-
+        p.setInHand(false);
+        
 
     }
 
@@ -502,8 +532,11 @@ public abstract class Hand {
      * @param p
      * @param amountTotal
      */
-    private void raise(Player p, double amountTotal){
+    protected void raise(Player p, double amountPlayerPutIn, double newOutstandingBet){
 
+        p.negateStack(amountPlayerPutIn);
+        this.potSize += amountPlayerPutIn;
+        action.add(p.getUsername() + " raises " + amountPlayerPutIn + " " + newOutstandingBet);
 
     }
 
@@ -513,8 +546,11 @@ public abstract class Hand {
      * pot and decrease the players stack.
      * @param p
      */
-    private void postsBB(Player p){
+    protected void postsBB(Player p){
 
+        p.negateStack(BB);
+        this.potSize += BB;
+        this.action.add(p.getUsername() + " posts BB");
 
 
     }
@@ -524,9 +560,44 @@ public abstract class Hand {
      * of the hand
      * @param p
      */
-    private void postsSB(Player p){
+    protected void postsSB(Player p){
 
+        p.negateStack(SB);
+        this.potSize += SB;
+        action.add(p.getUsername() + " posts SB");
 
+    }
+
+    protected void checks(Player p){
+
+        action.add(p.getUsername() + " checks");
+
+    }
+
+    protected void collected(Player p, double d){
+
+        //check to see if main pot calc is correct
+        if (potSize != d){
+
+            //oopsie
+
+        }
+
+        p.addToStack(d);
+        ArrayList<Player> w = new ArrayList<Player>();
+        w.add(p);
+        this.winners = w;
+
+    }
+
+    /**
+     * adds action to action string
+     * 
+     * @param s
+     */
+    protected void addAction(String s){
+
+        action.add(s);
 
     }
 
