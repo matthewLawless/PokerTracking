@@ -1,3 +1,4 @@
+package HandSessionAbstraction;
 public class CashHand extends Hand{
 
     //Cash game hand

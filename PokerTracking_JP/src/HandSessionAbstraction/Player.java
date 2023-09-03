@@ -1,3 +1,4 @@
+package HandSessionAbstraction;
 import java.io.*;
 public class Player{
 
@@ -72,7 +73,7 @@ public class Player{
         return currentStack;
 
     }
-    protected void setStack(double amount){
+    public void setStack(double amount){
 
         this.currentStack = amount;
 
@@ -118,25 +119,25 @@ public class Player{
 
     }
 
-    protected void setInHand(boolean b){
+    public void setInHand(boolean b){
 
         this.inHand = b;
 
     }
 
-    protected void setIsButton(boolean b){
+    public void setIsButton(boolean b){
 
         this.isButton = b;
 
     }
 
-    protected void setSeatNumber(int seatNumber){
+    public void setSeatNumber(int seatNumber){
 
         this.seatNumber = seatNumber;
 
     }
 
-    protected void setIsSittingOut(boolean b){
+    public void setIsSittingOut(boolean b){
 
         this.sittingOut = b;
 

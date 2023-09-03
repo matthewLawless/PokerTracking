@@ -1,5 +1,8 @@
+package HandSessionAbstraction;
 import java.util.ArrayList;
 import java.util.LinkedList;
+
+
 public abstract class Hand {
 
     /*
@@ -132,7 +135,7 @@ public abstract class Hand {
       * and if we ever want to replay the hands in a GUI. should be added to every time
       * an event in the hand occurs.
       */
-     protected LinkedList<String> action = new LinkedList<String>();
+     private LinkedList<String> action = new LinkedList<String>();
 
 
      public Hand(){
@@ -233,7 +236,7 @@ public abstract class Hand {
      * returns a list of all the players sitting at the table
      * @return
      */
-    protected Player[] getPlayersAtTable(){
+    public Player[] getPlayersAtTable(){
 
         return playersAtTable;
 
@@ -245,7 +248,7 @@ public abstract class Hand {
      * @param p
      * @param s
      */
-    protected void setPlayerToSeat(Player p, int s){
+    public void setPlayerToSeat(Player p, int s){
 
         //array shows [0 1 2 3 4 5]
         //reality [1 2 3 4 5 6]
@@ -258,7 +261,7 @@ public abstract class Hand {
      * 
      * @return
      */
-    private Player[] getPlayersInHand(){
+    public Player[] getPlayersInHand(){
 
         return playersInHand;
 
@@ -271,7 +274,7 @@ public abstract class Hand {
      * @param p
      * @param b
      */
-    private void setPlayerInHand(Player p, boolean b){
+    public void setPlayerInHand(Player p, boolean b){
 
         p.setInHand(b);
 
@@ -287,7 +290,7 @@ public abstract class Hand {
      * 
      * @return
      */
-    private double getPotSize(){
+    public double getPotSize(){
 
         return potSize;
 
@@ -298,7 +301,7 @@ public abstract class Hand {
      * 
      * @return
      */
-    private double getPotSizeInBigs(){
+    public double getPotSizeInBigs(){
 
         return potSize / BB;
 
@@ -308,7 +311,7 @@ public abstract class Hand {
      * dont think i need this keeping for now
      * @return
      */
-    private double getCurrentPotSize(){
+    public double getCurrentPotSize(){
 
         return currentPotSize;
 
@@ -459,7 +462,7 @@ public abstract class Hand {
 
     }
 
-    private void setNumberOfSeatsAtTable(int n){
+    public void setNumberOfSeatsAtTable(int n){
 
         this.numberOfSeatsAtTable = n;
 
@@ -487,7 +490,7 @@ public abstract class Hand {
      * @param p
      * @param amount
      */
-    protected void bets(Player p, double amount){
+    public void bets(Player p, double amount){
 
 
 
@@ -503,7 +506,7 @@ public abstract class Hand {
      * 
      * @param p
      */
-    protected void calls(Player p, double amount){
+    public void calls(Player p, double amount){
 
         p.negateStack(amount);
         this.potSize += amount;
@@ -518,7 +521,7 @@ public abstract class Hand {
      * 
      * @param p
      */
-    protected void folds(Player p){
+    public void folds(Player p){
 
         p.setInHand(false);
         
@@ -532,7 +535,7 @@ public abstract class Hand {
      * @param p
      * @param amountTotal
      */
-    protected void raise(Player p, double amountPlayerPutIn, double newOutstandingBet){
+    public void raise(Player p, double amountPlayerPutIn, double newOutstandingBet){
 
         p.negateStack(amountPlayerPutIn);
         this.potSize += amountPlayerPutIn;
@@ -546,7 +549,7 @@ public abstract class Hand {
      * pot and decrease the players stack.
      * @param p
      */
-    protected void postsBB(Player p){
+    public void postsBB(Player p){
 
         p.negateStack(BB);
         this.potSize += BB;
@@ -560,7 +563,7 @@ public abstract class Hand {
      * of the hand
      * @param p
      */
-    protected void postsSB(Player p){
+    public void postsSB(Player p){
 
         p.negateStack(SB);
         this.potSize += SB;
@@ -568,13 +571,13 @@ public abstract class Hand {
 
     }
 
-    protected void checks(Player p){
+    public void checks(Player p){
 
         action.add(p.getUsername() + " checks");
 
     }
 
-    protected void collected(Player p, double d){
+    public void collected(Player p, double d){
 
         //check to see if main pot calc is correct
         if (potSize != d){
@@ -595,7 +598,7 @@ public abstract class Hand {
      * 
      * @param s
      */
-    protected void addAction(String s){
+    public void addAction(String s){
 
         action.add(s);
 

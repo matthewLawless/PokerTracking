@@ -1,3 +1,4 @@
+package HandSessionAbstraction;
 public class TournamentHand extends Hand{
 
     private int currentLevel;
