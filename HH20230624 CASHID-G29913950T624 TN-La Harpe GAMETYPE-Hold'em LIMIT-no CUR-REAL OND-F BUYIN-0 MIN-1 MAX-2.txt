@@ -1,0 +1,233 @@
+Hand #1756496747 - Holdem(No Limit) - $0.01/$0.02 - 2023/06/24 20:14:14 UTC
+La Harpe 6-max Seat #5 is the button
+Seat 1: blackchair ($2.00)
+Seat 2: Ansman ($1.83)
+Seat 3: Gunnar111 ($3.61)
+Seat 4: Zikos500 ($1.92)
+Seat 5: osjaguar1 ($3.30)
+Seat 6: tobyyy ($2.01)
+tobyyy posts the small blind $0.01
+blackchair posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to blackchair [4s 4d]
+Ansman folds
+Gunnar111 folds
+Zikos500 folds
+osjaguar1 folds
+tobyyy folds
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: blackchair did not show and won $0.03
+Seat 2: Ansman folded on the Pre-Flop and did not bet
+Seat 3: Gunnar111 folded on the Pre-Flop and did not bet
+Seat 4: Zikos500 folded on the Pre-Flop and did not bet
+Seat 5: osjaguar1 (button) folded on the Pre-Flop
+Seat 6: tobyyy (small blind) folded on the Pre-Flop
+
+Hand #1756497500 - Holdem(No Limit) - $0.01/$0.02 - 2023/06/24 20:14:48 UTC
+La Harpe 6-max Seat #6 is the button
+Seat 1: blackchair ($2.01)
+Seat 2: Ansman ($1.83)
+Seat 3: Gunnar111 ($3.61)
+Seat 4: Zikos500 ($1.92)
+Seat 5: osjaguar1 ($3.30)
+Seat 6: tobyyy ($2.00)
+blackchair posts the small blind $0.01
+Ansman posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to blackchair [5s 3d]
+Gunnar111 folds
+Zikos500 folds
+osjaguar1 folds
+tobyyy raises $0.05 to $0.05
+blackchair calls $0.04
+Ansman folds
+*** FLOP *** [7s As 6s]
+Main pot $0.12 | Rake $0.00
+blackchair checks
+tobyyy checks
+*** TURN *** [7s As 6s] [Kh]
+Main pot $0.12 | Rake $0.00
+blackchair checks
+tobyyy checks
+*** RIVER *** [7s As 6s Kh] [7d]
+Main pot $0.12 | Rake $0.00
+blackchair checks
+tobyyy checks
+*** SHOW DOWN ***
+Main pot $0.12 | Rake $0.00
+blackchair shows [5s 3d] (a pair of Sevens [7s 7d As Kh 6s])
+tobyyy shows [9s Td] (a pair of Sevens [7s 7d As Kh Td])
+tobyyy collected $0.12 from main pot
+*** SUMMARY ***
+Total pot $0.12
+Board [7s As 6s Kh 7d]
+Seat 1: blackchair (small blind) showed [5s 3d] and lost with a pair of Sevens [7s 7d As Kh 6s]
+Seat 2: Ansman (big blind) folded on the Pre-Flop
+Seat 3: Gunnar111 folded on the Pre-Flop and did not bet
+Seat 4: Zikos500 folded on the Pre-Flop and did not bet
+Seat 5: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 6: tobyyy (button) showed [9s Td] and won $0.12 with a pair of Sevens [7s 7d As Kh Td] with the kicker Ten
+
+Hand #1756499023 - Holdem(No Limit) - $0.01/$0.02 - 2023/06/24 20:15:58 UTC
+La Harpe 6-max Seat #1 is the button
+Seat 1: blackchair ($1.96)
+Seat 2: Ansman ($1.81)
+Seat 3: Gunnar111 ($3.61)
+Seat 4: Zikos500 ($1.92)
+Seat 5: osjaguar1 ($3.30)
+Seat 6: tobyyy ($2.07)
+Ansman posts the small blind $0.01
+Gunnar111 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to blackchair [Kc 2s]
+Zikos500 folds
+osjaguar1 folds
+tobyyy folds
+blackchair folds
+Ansman folds
+Gunnar111 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: blackchair (button) folded on the Pre-Flop
+Seat 2: Ansman (small blind) folded on the Pre-Flop
+Seat 3: Gunnar111 did not show and won $0.03
+Seat 4: Zikos500 folded on the Pre-Flop and did not bet
+Seat 5: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 6: tobyyy folded on the Pre-Flop and did not bet
+
+Hand #1756499770 - Holdem(No Limit) - $0.01/$0.02 - 2023/06/24 20:16:33 UTC
+La Harpe 6-max Seat #2 is the button
+Seat 1: blackchair ($1.96)
+Seat 2: Ansman ($1.80)
+Seat 3: Gunnar111 ($3.62)
+Seat 4: Zikos500 ($1.92)
+Seat 5: osjaguar1 ($3.30)
+Seat 6: tobyyy ($2.07)
+Gunnar111 posts the small blind $0.01
+Zikos500 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to blackchair [Qs Ts]
+osjaguar1 folds
+tobyyy folds
+blackchair raises $0.05 to $0.05
+Ansman folds
+Gunnar111 folds
+Zikos500 folds
+Uncalled bet ($0.03) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: blackchair did not show and won $0.05
+Seat 2: Ansman (button) folded on the Pre-Flop
+Seat 3: Gunnar111 (small blind) folded on the Pre-Flop
+Seat 4: Zikos500 (big blind) folded on the Pre-Flop
+Seat 5: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 6: tobyyy folded on the Pre-Flop and did not bet
+
+Hand #1756500367 - Holdem(No Limit) - $0.01/$0.02 - 2023/06/24 20:17:00 UTC
+La Harpe 6-max Seat #3 is the button
+Seat 1: blackchair ($1.99)
+Seat 2: Ansman ($1.80)
+Seat 3: Gunnar111 ($3.61)
+Seat 4: Zikos500 ($1.90)
+Seat 5: osjaguar1 ($3.30)
+Seat 6: tobyyy ($2.07)
+Zikos500 posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to blackchair [8c Ad]
+tobyyy folds
+blackchair raises $0.07 to $0.07
+Ansman folds
+Gunnar111 folds
+Zikos500 folds
+osjaguar1 folds
+Uncalled bet ($0.05) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: blackchair did not show and won $0.05
+Seat 2: Ansman folded on the Pre-Flop and did not bet
+Seat 3: Gunnar111 (button) folded on the Pre-Flop
+Seat 4: Zikos500 (small blind) folded on the Pre-Flop
+Seat 5: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 6: tobyyy folded on the Pre-Flop and did not bet
+
+Hand #1756501009 - Holdem(No Limit) - $0.01/$0.02 - 2023/06/24 20:17:28 UTC
+La Harpe 6-max Seat #4 is the button
+Seat 1: blackchair ($2.02)
+Seat 2: Ansman ($1.80)
+Seat 3: Gunnar111 ($3.61)
+Seat 4: Zikos500 ($1.89)
+Seat 5: osjaguar1 ($3.28)
+Seat 6: tobyyy ($2.07)
+osjaguar1 posts the small blind $0.01
+tobyyy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to blackchair [Js 7s]
+blackchair folds
+Ansman folds
+Gunnar111 folds
+Zikos500 folds
+osjaguar1 folds
+tobyyy does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: blackchair folded on the Pre-Flop and did not bet
+Seat 2: Ansman folded on the Pre-Flop and did not bet
+Seat 3: Gunnar111 folded on the Pre-Flop and did not bet
+Seat 4: Zikos500 (button) folded on the Pre-Flop
+Seat 5: osjaguar1 (small blind) folded on the Pre-Flop
+Seat 6: tobyyy did not show and won $0.03
+
+Hand #1756502032 - Holdem(No Limit) - $0.01/$0.02 - 2023/06/24 20:18:15 UTC
+La Harpe 6-max Seat #5 is the button
+Seat 1: blackchair ($2.02)
+Seat 2: Ansman ($1.80)
+Seat 3: Gunnar111 ($3.61)
+Seat 4: Zikos500 ($1.89)
+Seat 5: osjaguar1 ($3.27)
+Seat 6: tobyyy ($2.08)
+tobyyy posts the small blind $0.01
+blackchair posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to blackchair [2s Ah]
+Ansman folds
+Gunnar111 folds
+Zikos500 folds
+osjaguar1 raises $0.07 to $0.07
+tobyyy folds
+blackchair calls $0.05
+*** FLOP *** [7h 9s 2c]
+Main pot $0.15 | Rake $0.00
+blackchair checks
+osjaguar1 bets $0.08
+blackchair calls $0.08
+*** TURN *** [7h 9s 2c] [2h]
+Main pot $0.30 | Rake $0.01
+blackchair checks
+osjaguar1 bets $0.20
+blackchair calls $0.20
+*** RIVER *** [7h 9s 2c 2h] [3h]
+Main pot $0.68 | Rake $0.03
+blackchair checks
+osjaguar1 bets $0.71
+blackchair raises $1.67 to $1.67 and is all-in
+osjaguar1 calls $0.96
+*** SHOW DOWN ***
+Main pot $3.85 | Rake $0.20
+blackchair shows [2s Ah] (three of a kind, Set of Deuces [2s 2h 2c Ah 9s])
+osjaguar1 shows [4h Qh] (a flush, Queen high [Qh 7h 4h 3h 2h])
+osjaguar1 collected $3.85 from main pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.14 | JP Fee $0.06
+Board [7h 9s 2c 2h 3h]
+Seat 1: blackchair (big blind) showed [2s Ah] and lost with three of a kind, Set of Deuces [2s 2h 2c Ah 9s]
+Seat 2: Ansman folded on the Pre-Flop and did not bet
+Seat 3: Gunnar111 folded on the Pre-Flop and did not bet
+Seat 4: Zikos500 folded on the Pre-Flop and did not bet
+Seat 5: osjaguar1 (button) showed [4h Qh] and won $3.85 with a flush, Queen high [Qh 7h 4h 3h 2h]
+Seat 6: tobyyy (small blind) folded on the Pre-Flop
+

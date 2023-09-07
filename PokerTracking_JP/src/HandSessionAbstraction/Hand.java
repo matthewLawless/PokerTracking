@@ -604,6 +604,12 @@ public abstract class Hand {
 
     }
 
+    public LinkedList<String> getActions(){
+
+        return action;
+
+    }
+
 
     
 }

@@ -57,7 +57,7 @@ public class Session {
         allHands.add(h);
 
     }
-    private ArrayList<Hand> getHands(){
+    public ArrayList<Hand> getHands(){
 
         return allHands;
 

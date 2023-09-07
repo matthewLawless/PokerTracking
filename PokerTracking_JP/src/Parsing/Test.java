@@ -1,7 +1,8 @@
+package Parsing;
 import java.util.*;
 
+
 import HandSessionAbstraction.Hand;
-import Parsing.SessionParser;
 
 import java.io.*;
 public class Test {
@@ -27,14 +28,14 @@ public class Test {
 
 
         // SessionParser sp = new SessionParser();
-        File f = new File("HH20230624 CASHID-G29913942T335 TN-Patterson GAMETYPE-Hold'em LIMIT-no CUR-REAL OND-F BUYIN-0 MIN-2 MAX-5.txt");
+        File f = new File("HH20230624 CASHID-G29913950T624 TN-La Harpe GAMETYPE-Hold'em LIMIT-no CUR-REAL OND-F BUYIN-0 MIN-1 MAX-2.txt");
         // Session s = sp.parseSession(f);
         
         // s.allHands.toString();
 
         SessionParser op = new SessionParser();
-        Hand h = op.cashSessionParse(f).allHands.get(0);
-        h.action.toString();
+        Hand h = op.cashSessionParse(f).getHands().get(0);
+        h.getActions().toString();
 
 
     }

@@ -47,7 +47,16 @@ public class HandParser {
             lscnr = new Scanner(scnr.nextLine());
             // lscnr.next();
             String tempTableName = lscnr.next();
-            int tempMaxPlayersAtTable = Integer.parseInt(lscnr.next().substring(0, 1));
+            String stempMaxPlayersAtTable = lscnr.next();
+            if (!stempMaxPlayersAtTable.substring(stempMaxPlayersAtTable.length() - 2, stempMaxPlayersAtTable.length()).equals("max")){
+
+                //table name with two word (ex "New Haven")
+                tempTableName = tempTableName + " " + stempMaxPlayersAtTable;
+                stempMaxPlayersAtTable = lscnr.next();
+
+
+            }
+            int tempMaxPlayersAtTable = Integer.parseInt(stempMaxPlayersAtTable.substring(0, 1));
             
             lscnr.next();
             //may or may not need this for the session

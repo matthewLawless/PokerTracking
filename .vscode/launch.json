@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Parsing.Test",
+            "projectName": "PokerTracking_31b87c23"
+        },
+        {
+            "type": "java",
+            "name": "SQLCommands",
+            "request": "launch",
+            "mainClass": "Parsing.SQLCommands",
+            "projectName": "PokerTracking_31b87c23"
+        },
+        {
+            "type": "java",
+            "name": "Create_DB",
+            "request": "launch",
+            "mainClass": "Parsing.Create_DB",
+            "projectName": "PokerTracking_31b87c23"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

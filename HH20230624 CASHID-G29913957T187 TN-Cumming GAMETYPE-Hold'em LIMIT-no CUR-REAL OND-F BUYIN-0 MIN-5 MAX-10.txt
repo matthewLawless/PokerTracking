@@ -1,0 +1,2441 @@
+Hand #1756424218 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:14:54 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($13.02)
+Seat 4: timetolive ($10.12)
+Seat 5: blackchair ($10.00)
+Seat 6: BLoveYou ($10.00)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [7c Jh]
+BLoveYou folds
+TheIronSide folds
+thescofflaw raises $0.30 to $0.30
+waveho calls $0.30
+timetolive calls $0.25
+blackchair calls $0.20
+*** FLOP *** [3d Tc 8h]
+Main pot $1.14 | Rake $0.06
+timetolive checks
+blackchair checks
+thescofflaw checks
+waveho checks
+*** TURN *** [3d Tc 8h] [6h]
+Main pot $1.14 | Rake $0.06
+timetolive bets $0.60
+blackchair folds
+thescofflaw calls $0.60
+waveho calls $0.60
+*** RIVER *** [3d Tc 8h 6h] [Ah]
+Main pot $2.85 | Rake $0.15
+timetolive checks
+thescofflaw bets $0.99
+waveho calls $0.99
+timetolive folds
+*** SHOW DOWN ***
+Main pot $4.74 | Rake $0.24
+thescofflaw shows [Qh Kh] (a flush, Ace high [Ah Kh Qh 8h 6h])
+waveho shows [2h 9h] (a flush, Ace high [Ah 9h 8h 6h 2h])
+thescofflaw collected $4.74 from main pot
+*** SUMMARY ***
+Total pot $4.74 | Rake $0.16 | JP Fee $0.08
+Board [3d Tc 8h 6h Ah]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw showed [Qh Kh] and won $4.74 with a flush, Ace high [Ah Kh Qh 8h 6h]
+Seat 3: waveho (button) showed [2h 9h] and lost with a flush, Ace high [Ah 9h 8h 6h 2h]
+Seat 4: timetolive (small blind) folded on the River
+Seat 5: blackchair (big blind) folded on the Turn
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756426043 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:16:20 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.85)
+Seat 3: waveho ($11.13)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($9.70)
+Seat 6: BLoveYou ($10.00)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [7d 6c]
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.10
+timetolive folds
+blackchair raises $0.25 to $0.30
+BLoveYou folds
+waveho calls $0.20
+*** FLOP *** [Ac 4h Qd]
+Main pot $0.67 | Rake $0.03
+blackchair bets $0.22
+waveho calls $0.22
+*** TURN *** [Ac 4h Qd] [7h]
+Main pot $1.09 | Rake $0.05
+blackchair bets $0.28
+waveho folds
+Uncalled bet ($0.28) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05
+Board [Ac 4h Qd 7h]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Turn
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $1.09
+Seat 6: BLoveYou (big blind) folded on the Pre-Flop
+
+Hand #1756427019 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:17:05 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.85)
+Seat 3: waveho ($10.61)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($10.27)
+Seat 6: BLoveYou ($9.90)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [7d Ac]
+thescofflaw folds
+waveho folds
+timetolive folds
+blackchair raises $0.25 to $0.25
+BLoveYou raises $0.85 to $0.90
+TheIronSide folds
+blackchair calls $0.65
+*** FLOP *** [8c 3h Kh]
+Main pot $1.81 | Rake $0.09
+BLoveYou bets $0.57
+blackchair calls $0.57
+*** TURN *** [8c 3h Kh] [7s]
+Main pot $2.89 | Rake $0.15
+BLoveYou checks
+blackchair bets $1.37
+BLoveYou folds
+Uncalled bet ($1.37) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $2.89 | Rake $0.11 | JP Fee $0.04
+Board [8c 3h Kh 7s]
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $2.89
+Seat 6: BLoveYou (small blind) folded on the Turn
+
+Hand #1756428093 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:17:55 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.85)
+Seat 3: waveho ($10.61)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($11.69)
+Seat 6: BLoveYou ($10.00)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [9c 6s]
+waveho calls $0.10
+timetolive folds
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+thescofflaw checks
+*** FLOP *** [3c Qh 2s]
+Main pot $0.24 | Rake $0.01
+thescofflaw checks
+waveho checks
+*** TURN *** [3c Qh 2s] [3d]
+Main pot $0.24 | Rake $0.01
+thescofflaw checks
+waveho checks
+*** RIVER *** [3c Qh 2s 3d] [Js]
+Main pot $0.24 | Rake $0.01
+thescofflaw checks
+waveho checks
+*** SHOW DOWN ***
+Main pot $0.24 | Rake $0.01
+thescofflaw shows [9h 4s] (a pair of Threes [3d 3c Qh Js 9h])
+waveho shows [9s Kh] (a pair of Threes [3d 3c Kh Qh Js])
+waveho collected $0.24 from main pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [3c Qh 2s 3d Js]
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) showed [9h 4s] and lost with a pair of Threes [3d 3c Qh Js 9h]
+Seat 3: waveho showed [9s Kh] and won $0.24 with a pair of Threes [3d 3c Kh Qh Js] with the kicker King
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou (button) folded on the Pre-Flop
+
+Hand #1756429156 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:18:44 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.75)
+Seat 3: waveho ($10.75)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($11.69)
+Seat 6: BLoveYou ($10.00)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [7c 7d]
+timetolive folds
+blackchair raises $0.23 to $0.23
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.13
+*** FLOP *** [9h Kd Qc]
+Main pot $0.49 | Rake $0.02
+waveho checks
+blackchair checks
+*** TURN *** [9h Kd Qc] [4c]
+Main pot $0.49 | Rake $0.02
+waveho checks
+blackchair bets $0.12
+waveho calls $0.12
+*** RIVER *** [9h Kd Qc 4c] [2s]
+Main pot $0.72 | Rake $0.03
+waveho checks
+blackchair checks
+*** SHOW DOWN ***
+Main pot $0.72 | Rake $0.03
+waveho shows [Ah 5c] (a high card, Ace high [Ah Kd Qc 9h 5c])
+blackchair shows [7c 7d] (a pair of Sevens [7d 7c Kd Qc 9h])
+blackchair collected $0.72 from main pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [9h Kd Qc 4c 2s]
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho (big blind) showed [Ah 5c] and lost with a high card, Ace high [Ah Kd Qc 9h 5c]
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair showed [7c 7d] and won $0.72 with a pair of Sevens [7d 7c Kd Qc 9h]
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756430168 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:19:29 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.70)
+Seat 3: waveho ($10.40)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($12.06)
+Seat 6: BLoveYou ($10.00)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Kh 6h]
+blackchair folds
+BLoveYou folds
+TheIronSide raises $0.30 to $0.30
+thescofflaw folds
+waveho folds
+timetolive raises $9.12 to $9.22 and is all-in
+TheIronSide folds
+Uncalled bet ($8.92) returned to timetolive
+timetolive does not show
+*** SUMMARY ***
+Total pot $0.65
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) folded on the Pre-Flop
+Seat 4: timetolive did not show and won $0.65
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756431018 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:20:08 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.70)
+Seat 3: waveho ($10.35)
+Seat 4: timetolive ($9.57)
+Seat 5: blackchair ($12.06)
+Seat 6: BLoveYou ($10.00)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [7c 8d]
+BLoveYou folds
+TheIronSide raises $0.30 to $0.30
+thescofflaw folds
+waveho folds
+timetolive folds
+blackchair folds
+Uncalled bet ($0.20) returned to TheIronSide
+TheIronSide does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide did not show and won $0.25
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho (button) folded on the Pre-Flop
+Seat 4: timetolive (small blind) folded on the Pre-Flop
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756432131 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:20:59 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($10.15)
+Seat 2: thescofflaw ($12.70)
+Seat 3: waveho ($10.35)
+Seat 4: timetolive ($9.52)
+Seat 5: blackchair ($11.96)
+Seat 6: BLoveYou ($10.00)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Td Qh]
+TheIronSide raises $0.30 to $0.30
+thescofflaw folds
+waveho calls $0.30
+timetolive calls $0.30
+blackchair calls $0.25
+BLoveYou calls $0.20
+*** FLOP *** [4c 8c 8h]
+Main pot $1.43 | Rake $0.07
+blackchair checks
+BLoveYou checks
+TheIronSide checks
+waveho checks
+timetolive checks
+*** TURN *** [4c 8c 8h] [Kc]
+Main pot $1.43 | Rake $0.07
+blackchair checks
+BLoveYou bets $0.45
+TheIronSide folds
+waveho calls $0.45
+timetolive folds
+blackchair folds
+*** RIVER *** [4c 8c 8h Kc] [5s]
+Main pot $2.28 | Rake $0.12
+BLoveYou checks
+waveho checks
+*** SHOW DOWN ***
+Main pot $2.28 | Rake $0.12
+waveho shows [Ks 9s] (two pair, Kings and Eights [Ks Kc 8h 8c 9s])
+BLoveYou shows [3c 8s] (three of a kind, Set of Eights [8s 8h 8c Kc 5s])
+BLoveYou collected $2.28 from main pot
+*** SUMMARY ***
+Total pot $2.28 | Rake $0.08 | JP Fee $0.04
+Board [4c 8c 8h Kc 5s]
+Seat 1: TheIronSide folded on the Turn
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho showed [Ks 9s] and lost with two pair, Kings and Eights [Ks Kc 8h 8c 9s]
+Seat 4: timetolive (button) folded on the Turn
+Seat 5: blackchair (small blind) folded on the Turn
+Seat 6: BLoveYou (big blind) showed [3c 8s] and won $2.28 with three of a kind, Set of Eights [8s 8h 8c Kc 5s]
+
+Hand #1756433574 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:22:06 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.70)
+Seat 3: waveho ($9.60)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($11.66)
+Seat 6: BLoveYou ($11.53)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2d 9s]
+thescofflaw folds
+waveho folds
+timetolive folds
+blackchair folds
+BLoveYou raises $0.20 to $0.25
+TheIronSide calls $0.15
+*** FLOP *** [8d 7d Th]
+Main pot $0.48 | Rake $0.02
+BLoveYou checks
+TheIronSide bets $0.12
+BLoveYou calls $0.12
+*** TURN *** [8d 7d Th] [6d]
+Main pot $0.71 | Rake $0.03
+BLoveYou bets $0.49
+TheIronSide calls $0.49
+*** RIVER *** [8d 7d Th 6d] [7h]
+Main pot $1.64 | Rake $0.08
+BLoveYou bets $0.43
+TheIronSide folds
+Uncalled bet ($0.43) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.06 | JP Fee $0.02
+Board [8d 7d Th 6d 7h]
+Seat 1: TheIronSide (big blind) folded on the River
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $1.64
+
+Hand #1756434832 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:23:05 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.70)
+Seat 3: waveho ($9.60)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($11.66)
+Seat 6: BLoveYou ($12.31)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Ad Td]
+waveho calls $0.10
+timetolive folds
+blackchair raises $0.27 to $0.27
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.17
+*** FLOP *** [8h 2d Ks]
+Main pot $0.66 | Rake $0.03
+waveho checks
+blackchair checks
+*** TURN *** [8h 2d Ks] [9s]
+Main pot $0.66 | Rake $0.03
+waveho checks
+blackchair bets $0.17
+waveho folds
+Uncalled bet ($0.17) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.03
+Board [8h 2d Ks 9s]
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) folded on the Pre-Flop
+Seat 3: waveho folded on the Turn
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.66
+Seat 6: BLoveYou (button) folded on the Pre-Flop
+
+Hand #1756435924 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:23:55 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($12.60)
+Seat 3: waveho ($9.33)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($12.05)
+Seat 6: BLoveYou ($12.31)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [6d 9c]
+timetolive folds
+blackchair folds
+BLoveYou folds
+TheIronSide raises $0.25 to $0.25
+thescofflaw folds
+waveho calls $0.15
+*** FLOP *** [Jh 8h 4s]
+Main pot $0.53 | Rake $0.02
+waveho checks
+TheIronSide bets $0.13
+waveho calls $0.13
+*** TURN *** [Jh 8h 4s] [Ac]
+Main pot $0.77 | Rake $0.04
+waveho checks
+TheIronSide bets $1.21
+waveho folds
+Uncalled bet ($1.21) returned to TheIronSide
+TheIronSide does not show
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.04
+Board [Jh 8h 4s Ac]
+Seat 1: TheIronSide did not show and won $0.77
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho (big blind) folded on the Turn
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756437058 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:24:50 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($10.39)
+Seat 2: thescofflaw ($12.55)
+Seat 3: waveho ($8.95)
+Seat 4: timetolive ($9.22)
+Seat 5: blackchair ($12.05)
+Seat 6: BLoveYou ($12.31)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [As Th]
+blackchair raises $0.28 to $0.28
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive folds
+Uncalled bet ($0.18) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) folded on the Pre-Flop
+Seat 4: timetolive (big blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.25
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756437576 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:25:14 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($10.39)
+Seat 2: thescofflaw ($12.55)
+Seat 3: waveho ($8.90)
+Seat 4: timetolive ($9.12)
+Seat 5: blackchair ($12.20)
+Seat 6: BLoveYou ($12.31)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [9h 9d]
+BLoveYou folds
+TheIronSide raises $0.30 to $0.30
+thescofflaw raises $1.05 to $1.05
+waveho folds
+timetolive folds
+blackchair calls $0.95
+TheIronSide folds
+*** FLOP *** [3s 6c 5c]
+Main pot $2.33 | Rake $0.12
+blackchair checks
+thescofflaw bets $0.81
+blackchair raises $3.86 to $3.86
+thescofflaw calls $3.05
+*** TURN *** [3s 6c 5c] [Qh]
+Main pot $9.67 | Rake $0.50
+blackchair bets $7.29 and is all-in
+thescofflaw folds
+Uncalled bet ($7.29) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $9.67 | Rake $0.34 | JP Fee $0.16
+Board [3s 6c 5c Qh]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Turn
+Seat 3: waveho (button) folded on the Pre-Flop
+Seat 4: timetolive (small blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $9.67
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756439033 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:26:23 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($10.09)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($8.90)
+Seat 4: timetolive ($9.07)
+Seat 5: blackchair ($16.96)
+Seat 6: BLoveYou ($12.31)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Qh 2s]
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.10
+timetolive folds
+blackchair calls $0.05
+BLoveYou raises $0.40 to $0.50
+waveho folds
+blackchair folds
+Uncalled bet ($0.40) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.30
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $0.30
+
+Hand #1756439931 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:27:03 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($10.09)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($8.80)
+Seat 4: timetolive ($9.07)
+Seat 5: blackchair ($16.86)
+Seat 6: BLoveYou ($12.51)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Ks 2c]
+thescofflaw folds
+waveho calls $0.10
+timetolive folds
+blackchair folds
+BLoveYou raises $0.45 to $0.50
+TheIronSide folds
+waveho calls $0.40
+*** FLOP *** [2d As 8s]
+Main pot $1.05 | Rake $0.05
+BLoveYou bets $0.55
+waveho folds
+Uncalled bet ($0.55) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05
+Board [2d As 8s]
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Flop
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $1.05
+
+Hand #1756440771 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:27:42 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($8.30)
+Seat 4: timetolive ($9.07)
+Seat 5: blackchair ($16.86)
+Seat 6: BLoveYou ($13.06)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Kd 7c]
+waveho calls $0.10
+timetolive folds
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+thescofflaw checks
+*** FLOP *** [Jd 9s 4d]
+Main pot $0.24 | Rake $0.01
+thescofflaw checks
+waveho checks
+*** TURN *** [Jd 9s 4d] [9d]
+Main pot $0.24 | Rake $0.01
+thescofflaw bets $0.10
+waveho calls $0.10
+*** RIVER *** [Jd 9s 4d 9d] [Qh]
+Main pot $0.43 | Rake $0.02
+thescofflaw checks
+waveho checks
+*** SHOW DOWN ***
+Main pot $0.43 | Rake $0.02
+thescofflaw shows [3d 3s] (two pair, Nines and Threes [9s 9d 3s 3d Qh])
+waveho shows [6d As] (a pair of Nines [9s 9d As Qh Jd])
+thescofflaw collected $0.43 from main pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Jd 9s 4d 9d Qh]
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) showed [3d 3s] and won $0.43 with two pair, Nines and Threes [9s 9d 3s 3d Qh]
+Seat 3: waveho showed [6d As] and lost with a pair of Nines [9s 9d As Qh Jd]
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou (button) folded on the Pre-Flop
+
+Hand #1756441785 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:28:28 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.23)
+Seat 3: waveho ($8.10)
+Seat 4: timetolive ($9.07)
+Seat 5: blackchair ($16.86)
+Seat 6: BLoveYou ($13.06)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [4d 9c]
+timetolive folds
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho did not show and won $0.15
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756442373 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:28:54 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.18)
+Seat 3: waveho ($8.15)
+Seat 4: timetolive ($9.07)
+Seat 5: blackchair ($16.86)
+Seat 6: BLoveYou ($13.06)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Th 3h]
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.05
+timetolive raises $0.25 to $0.35
+waveho folds
+Uncalled bet ($0.25) returned to timetolive
+timetolive does not show
+*** SUMMARY ***
+Total pot $0.20
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) folded on the Pre-Flop
+Seat 4: timetolive did not show and won $0.20
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756443093 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:29:28 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.18)
+Seat 3: waveho ($8.05)
+Seat 4: timetolive ($9.17)
+Seat 5: blackchair ($16.86)
+Seat 6: BLoveYou ($13.06)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [3h 5s]
+BLoveYou folds
+TheIronSide folds
+thescofflaw raises $0.30 to $0.30
+waveho folds
+timetolive raises $1.05 to $1.10
+blackchair folds
+thescofflaw folds
+Uncalled bet ($0.80) returned to timetolive
+timetolive does not show
+*** SUMMARY ***
+Total pot $0.70
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho (button) folded on the Pre-Flop
+Seat 4: timetolive did not show and won $0.70
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756443829 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:30:02 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($8.05)
+Seat 4: timetolive ($9.57)
+Seat 5: blackchair ($16.76)
+Seat 6: BLoveYou ($13.06)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Qh 5d]
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive folds
+blackchair folds
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $0.15
+
+Hand #1756444224 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:30:21 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($8.05)
+Seat 4: timetolive ($9.57)
+Seat 5: blackchair ($16.71)
+Seat 6: BLoveYou ($13.11)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2s 9c]
+thescofflaw raises $0.30 to $0.30
+waveho folds
+timetolive folds
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+Uncalled bet ($0.20) returned to thescofflaw
+thescofflaw does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw did not show and won $0.25
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: BLoveYou (small blind) folded on the Pre-Flop
+
+Hand #1756444784 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:30:45 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.15)
+Seat 3: waveho ($8.05)
+Seat 4: timetolive ($9.57)
+Seat 5: blackchair ($16.71)
+Seat 6: BLoveYou ($13.06)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Th Jd]
+waveho folds
+timetolive folds
+blackchair raises $0.22 to $0.22
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+Uncalled bet ($0.12) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) folded on the Pre-Flop
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.25
+Seat 6: BLoveYou (button) folded on the Pre-Flop
+
+Hand #1756445472 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:31:17 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.05)
+Seat 3: waveho ($8.05)
+Seat 4: timetolive ($9.57)
+Seat 5: blackchair ($16.86)
+Seat 6: BLoveYou ($13.06)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Kh Ts]
+timetolive folds
+blackchair raises $0.25 to $0.25
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.15
+*** FLOP *** [8c 2h 2s]
+Main pot $0.53 | Rake $0.02
+waveho checks
+blackchair bets $0.13
+waveho folds
+Uncalled bet ($0.13) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [8c 2h 2s]
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho (big blind) folded on the Flop
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.53
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756446427 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:32:01 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($7.80)
+Seat 4: timetolive ($9.57)
+Seat 5: blackchair ($17.14)
+Seat 6: BLoveYou ($13.06)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [8c 4s]
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.05
+timetolive raises $0.25 to $0.35
+waveho calls $0.25
+*** FLOP *** [9h 5s Qd]
+Main pot $0.67 | Rake $0.03
+waveho checks
+timetolive bets $0.17
+waveho calls $0.17
+*** TURN *** [9h 5s Qd] [9s]
+Main pot $0.99 | Rake $0.05
+waveho checks
+timetolive checks
+*** RIVER *** [9h 5s Qd 9s] [2h]
+Main pot $0.99 | Rake $0.05
+waveho checks
+timetolive checks
+*** SHOW DOWN ***
+Main pot $0.99 | Rake $0.05
+waveho shows [Tc Qc] (two pair, Queens and Nines [Qd Qc 9s 9h Tc])
+timetolive shows [Js Ah] (a pair of Nines [9s 9h Ah Qd Js])
+waveho collected $0.99 from main pot
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.05
+Board [9h 5s Qd 9s 2h]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) showed [Tc Qc] and won $0.99 with two pair, Queens and Nines [Qd Qc 9s 9h Tc]
+Seat 4: timetolive (big blind) showed [Js Ah] and lost with a pair of Nines [9s 9h Ah Qd Js]
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756447579 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:32:55 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($8.27)
+Seat 4: timetolive ($9.05)
+Seat 5: blackchair ($17.14)
+Seat 6: BLoveYou ($13.06)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [6h Jh]
+BLoveYou raises $0.20 to $0.20
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.20
+timetolive folds
+blackchair calls $0.10
+*** FLOP *** [9c Tc 7d]
+Main pot $0.62 | Rake $0.03
+blackchair checks
+BLoveYou bets $0.32
+waveho calls $0.32
+blackchair folds
+*** TURN *** [9c Tc 7d] [5h]
+Main pot $1.23 | Rake $0.06
+BLoveYou bets $0.86
+waveho folds
+Uncalled bet ($0.86) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $1.23 | Rake $0.04 | JP Fee $0.02
+Board [9c Tc 7d 5h]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho (button) folded on the Turn
+Seat 4: timetolive (small blind) folded on the Pre-Flop
+Seat 5: blackchair (big blind) folded on the Flop
+Seat 6: BLoveYou did not show and won $1.23
+
+Hand #1756448905 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:33:56 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($7.75)
+Seat 4: timetolive ($9.00)
+Seat 5: blackchair ($16.94)
+Seat 6: BLoveYou ($13.77)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [4h Ts]
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.10
+timetolive folds
+blackchair folds
+BLoveYou raises $0.10 to $0.20
+waveho calls $0.10
+*** FLOP *** [4c As Qs]
+Main pot $0.43 | Rake $0.02
+BLoveYou bets $0.13
+waveho calls $0.13
+*** TURN *** [4c As Qs] [Ks]
+Main pot $0.68 | Rake $0.03
+BLoveYou bets $0.71
+waveho folds
+Uncalled bet ($0.71) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.03
+Board [4c As Qs Ks]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Turn
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $0.68
+
+Hand #1756449930 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:34:43 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($7.42)
+Seat 4: timetolive ($9.00)
+Seat 5: blackchair ($16.89)
+Seat 6: BLoveYou ($14.12)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [6c Kc]
+thescofflaw raises $0.30 to $0.30
+waveho folds
+timetolive folds
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+Uncalled bet ($0.20) returned to thescofflaw
+thescofflaw does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw did not show and won $0.25
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: BLoveYou (small blind) folded on the Pre-Flop
+
+Hand #1756450930 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:35:29 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.15)
+Seat 3: waveho ($7.42)
+Seat 4: timetolive ($9.00)
+Seat 5: blackchair ($16.89)
+Seat 6: BLoveYou ($14.07)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Qd 2c]
+waveho calls $0.10
+timetolive folds
+blackchair folds
+BLoveYou raises $0.40 to $0.40
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.30
+*** FLOP *** [9h 2d Jd]
+Main pot $0.91 | Rake $0.04
+waveho checks
+BLoveYou bets $0.47
+waveho folds
+Uncalled bet ($0.47) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.04
+Board [9h 2d Jd]
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) folded on the Pre-Flop
+Seat 3: waveho folded on the Flop
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou did not show and won $0.91
+
+Hand #1756452023 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:36:19 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.05)
+Seat 3: waveho ($7.02) is sitting out
+Seat 4: timetolive ($9.00)
+Seat 5: blackchair ($16.89)
+Seat 6: BLoveYou ($14.58)
+thescofflaw posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2h Ah]
+blackchair raises $0.28 to $0.28
+BLoveYou raises $0.90 to $0.90
+TheIronSide folds
+thescofflaw folds
+timetolive folds
+blackchair folds
+Uncalled bet ($0.62) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.71
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 4: timetolive (big blind) folded on the Pre-Flop
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou did not show and won $0.71
+
+Hand #1756452942 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:37:02 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($7.02) is sitting out
+Seat 4: timetolive ($8.90)
+Seat 5: blackchair ($16.61)
+Seat 6: BLoveYou ($15.01)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [8s 7c]
+BLoveYou folds
+TheIronSide raises $0.30 to $0.30
+thescofflaw folds
+timetolive folds
+blackchair calls $0.20
+*** FLOP *** [Th Jd Jc]
+Main pot $0.62 | Rake $0.03
+blackchair checks
+TheIronSide bets $0.16
+blackchair calls $0.16
+*** TURN *** [Th Jd Jc] [Kd]
+Main pot $0.93 | Rake $0.04
+blackchair checks
+TheIronSide checks
+*** RIVER *** [Th Jd Jc Kd] [Qc]
+Main pot $0.93 | Rake $0.04
+blackchair bets $0.58
+TheIronSide folds
+Uncalled bet ($0.58) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.04
+Board [Th Jd Jc Kd Qc]
+Seat 1: TheIronSide folded on the River
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 4: timetolive (small blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.93
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756454234 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:38:03 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($7.02)
+Seat 4: timetolive ($8.85)
+Seat 5: blackchair ($17.08)
+Seat 6: BLoveYou ($15.01)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+waveho posts dead $0.15
+*** HOLE CARDS ***
+Dealt to blackchair [6s 5d]
+TheIronSide folds
+thescofflaw raises $0.45 to $0.45
+waveho folds
+timetolive folds
+blackchair folds
+BLoveYou folds
+Uncalled bet ($0.35) returned to thescofflaw
+thescofflaw does not show
+*** SUMMARY ***
+Total pot $0.40
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw did not show and won $0.40
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou (big blind) folded on the Pre-Flop
+
+Hand #1756455119 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:38:45 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.30)
+Seat 3: waveho ($6.87)
+Seat 4: timetolive ($8.85)
+Seat 5: blackchair ($17.03)
+Seat 6: BLoveYou ($14.91)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [5s Jh]
+thescofflaw raises $0.30 to $0.30
+waveho folds
+timetolive calls $0.30
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+*** FLOP *** [Qs 7c 4c]
+Main pot $0.72 | Rake $0.03
+thescofflaw bets $0.49
+timetolive calls $0.49
+*** TURN *** [Qs 7c 4c] [4d]
+Main pot $1.65 | Rake $0.08
+thescofflaw checks
+timetolive checks
+*** RIVER *** [Qs 7c 4c 4d] [8s]
+Main pot $1.65 | Rake $0.08
+thescofflaw checks
+timetolive checks
+*** SHOW DOWN ***
+Main pot $1.65 | Rake $0.08
+thescofflaw shows [6d Ad] (a pair of Fours [4d 4c Ad Qs 8s])
+timetolive shows [Tc Th] (two pair, Tens and Fours [Th Tc 4d 4c Qs])
+timetolive collected $1.65 from main pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.06 | JP Fee $0.02
+Board [Qs 7c 4c 4d 8s]
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw showed [6d Ad] and lost with a pair of Fours [4d 4c Ad Qs 8s]
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive showed [Tc Th] and won $1.65 with two pair, Tens and Fours [Th Tc 4d 4c Qs]
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: BLoveYou (small blind) folded on the Pre-Flop
+
+Hand #1756456533 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:39:53 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($10.00)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($6.87)
+Seat 4: timetolive ($9.71)
+Seat 5: blackchair ($17.03)
+Seat 6: BLoveYou ($14.86)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [7h 2h]
+waveho calls $0.10
+timetolive folds
+blackchair calls $0.10
+BLoveYou folds
+TheIronSide raises $0.50 to $0.55
+thescofflaw folds
+waveho folds
+blackchair folds
+Uncalled bet ($0.45) returned to TheIronSide
+TheIronSide does not show
+*** SUMMARY ***
+Total pot $0.40
+Seat 1: TheIronSide did not show and won $0.40
+Seat 2: thescofflaw (big blind) folded on the Pre-Flop
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou (button) folded on the Pre-Flop
+
+Hand #1756457451 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:40:35 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($10.30)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($6.77)
+Seat 4: timetolive ($9.71)
+Seat 5: blackchair ($16.93)
+Seat 6: BLoveYou ($14.86)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [9s Jc]
+timetolive folds
+blackchair raises $0.28 to $0.28
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.18
+*** FLOP *** [7h Tc 2s]
+Main pot $0.58 | Rake $0.03
+waveho checks
+blackchair bets $0.15
+waveho folds
+Uncalled bet ($0.15) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.03
+Board [7h Tc 2s]
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho (big blind) folded on the Flop
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.58
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756458301 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:41:14 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($10.30)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($6.49)
+Seat 4: timetolive ($9.71)
+Seat 5: blackchair ($17.23)
+Seat 6: BLoveYou ($14.86)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Kh Ad]
+blackchair raises $0.22 to $0.22
+BLoveYou folds
+TheIronSide calls $0.22
+thescofflaw folds
+waveho folds
+timetolive calls $0.12
+*** FLOP *** [7s Kd 3d]
+Main pot $0.68 | Rake $0.03
+timetolive checks
+blackchair checks
+TheIronSide bets $0.53
+timetolive folds
+blackchair calls $0.53
+*** TURN *** [7s Kd 3d] [6s]
+Main pot $1.69 | Rake $0.08
+blackchair checks
+TheIronSide bets $1.77
+blackchair raises $16.48 to $16.48 and is all-in
+TheIronSide calls $7.78 and is all-in
+Uncalled bet ($6.93) returned to blackchair
+*** RIVER *** [7s Kd 3d 6s] [9d]
+Main pot $19.83 | Rake $1.04
+*** SHOW DOWN ***
+Main pot $19.83 | Rake $1.04
+TheIronSide shows [7h 7c] (three of a kind, Set of Sevens [7s 7h 7c Kd 9d])
+blackchair shows [Kh Ad] (a pair of Kings [Kh Kd Ad 9d 7s])
+TheIronSide collected $19.83 from main pot
+*** SUMMARY ***
+Total pot $19.83 | Rake $0.80 | JP Fee $0.24
+Board [7s Kd 3d 6s 9d]
+Seat 1: TheIronSide showed [7h 7c] and won $19.83 with three of a kind, Set of Sevens [7s 7h 7c Kd 9d]
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) folded on the Pre-Flop
+Seat 4: timetolive (big blind) folded on the Flop
+Seat 5: blackchair showed [Kh Ad] and lost with a pair of Kings [Kh Kd Ad 9d 7s]
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756460427 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:42:50 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($19.83)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($6.44)
+Seat 4: timetolive ($9.49)
+Seat 5: blackchair ($6.93)
+Seat 6: BLoveYou ($14.86)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [6h 7d]
+BLoveYou raises $0.25 to $0.25
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.25
+timetolive folds
+blackchair calls $0.15
+*** FLOP *** [Qd Ac 3h]
+Main pot $0.76 | Rake $0.04
+blackchair checks
+BLoveYou checks
+waveho checks
+*** TURN *** [Qd Ac 3h] [9c]
+Main pot $0.76 | Rake $0.04
+blackchair checks
+BLoveYou bets $0.40
+waveho folds
+blackchair folds
+Uncalled bet ($0.40) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.04
+Board [Qd Ac 3h 9c]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho (button) folded on the Turn
+Seat 4: timetolive (small blind) folded on the Pre-Flop
+Seat 5: blackchair (big blind) folded on the Turn
+Seat 6: BLoveYou did not show and won $0.76
+
+Hand #1756461572 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:43:43 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($19.83)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($6.19)
+Seat 4: timetolive ($9.44)
+Seat 5: blackchair ($6.68)
+Seat 6: BLoveYou ($15.37)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [3d 7h]
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive folds
+blackchair calls $0.05
+BLoveYou raises $0.30 to $0.40
+blackchair folds
+Uncalled bet ($0.30) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.20
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $0.20
+
+Hand #1756462157 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:44:09 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($19.83)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($6.19)
+Seat 4: timetolive ($9.44)
+Seat 5: blackchair ($6.58)
+Seat 6: BLoveYou ($15.47)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Jh 2c]
+thescofflaw folds
+waveho folds
+timetolive folds
+blackchair folds
+BLoveYou raises $0.20 to $0.25
+TheIronSide folds
+Uncalled bet ($0.15) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.20
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $0.20
+
+Hand #1756462793 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:44:40 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($19.73)
+Seat 2: thescofflaw ($10.00)
+Seat 3: waveho ($6.19)
+Seat 4: timetolive ($9.44)
+Seat 5: blackchair ($6.58)
+Seat 6: BLoveYou ($15.57)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [9d 4c]
+waveho calls $0.10
+timetolive folds
+blackchair folds
+BLoveYou raises $0.40 to $0.40
+TheIronSide folds
+thescofflaw raises $1.35 to $1.45
+waveho folds
+BLoveYou calls $1.05
+*** FLOP *** [Jc 2d 8d]
+Main pot $2.90 | Rake $0.15
+thescofflaw bets $2.03
+BLoveYou raises $14.12 to $14.12 and is all-in
+thescofflaw calls $6.52 and is all-in
+Uncalled bet ($5.57) returned to BLoveYou
+*** TURN *** [Jc 2d 8d] [5c]
+Main pot $19.15 | Rake $1.00
+*** RIVER *** [Jc 2d 8d 5c] [Kh]
+Main pot $19.15 | Rake $1.00
+*** SHOW DOWN ***
+Main pot $19.15 | Rake $1.00
+thescofflaw shows [Ac Ad] (a pair of Aces [Ad Ac Kh Jc 8d])
+BLoveYou shows [Jh Qh] (a pair of Jacks [Jh Jc Kh Qh 8d])
+thescofflaw collected $19.15 from main pot
+*** SUMMARY ***
+Total pot $19.15 | Rake $0.76 | JP Fee $0.24
+Board [Jc 2d 8d 5c Kh]
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) showed [Ac Ad] and won $19.15 with a pair of Aces [Ad Ac Kh Jc 8d]
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou (button) showed [Jh Qh] and lost with a pair of Jacks [Jh Jc Kh Qh 8d]
+
+Hand #1756464297 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:45:48 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($19.68)
+Seat 2: thescofflaw ($19.15)
+Seat 3: waveho ($6.09)
+Seat 4: timetolive ($9.44)
+Seat 5: blackchair ($6.58)
+Seat 6: BLoveYou ($5.57)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Kh 4h]
+timetolive raises $0.25 to $0.25
+blackchair folds
+BLoveYou raises $0.90 to $0.90
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive calls $0.65
+*** FLOP *** [4c Td 6h]
+Main pot $1.86 | Rake $0.09
+timetolive checks
+BLoveYou bets $0.97
+timetolive folds
+Uncalled bet ($0.97) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 | JP Fee $0.02
+Board [4c Td 6h]
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho (big blind) folded on the Pre-Flop
+Seat 4: timetolive folded on the Flop
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou did not show and won $1.86
+
+Hand #1756465758 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:46:53 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($19.68)
+Seat 2: thescofflaw ($19.10)
+Seat 3: waveho ($5.99)
+Seat 4: timetolive ($8.54)
+Seat 5: blackchair ($6.58)
+Seat 6: BLoveYou ($10.00)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2d 7h]
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) folded on the Pre-Flop
+Seat 4: timetolive did not show and won $0.15
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756466258 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:47:16 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($19.68)
+Seat 2: thescofflaw ($19.10)
+Seat 3: waveho ($5.94)
+Seat 4: timetolive ($8.59)
+Seat 5: blackchair ($6.58)
+Seat 6: BLoveYou ($10.00)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [3h 9d]
+BLoveYou folds
+TheIronSide folds
+thescofflaw raises $0.30 to $0.30
+waveho calls $0.30
+timetolive folds
+blackchair folds
+*** FLOP *** [Jc 3d 4s]
+Main pot $0.72 | Rake $0.03
+thescofflaw bets $0.24
+waveho calls $0.24
+*** TURN *** [Jc 3d 4s] [3c]
+Main pot $1.17 | Rake $0.06
+thescofflaw checks
+waveho checks
+*** RIVER *** [Jc 3d 4s 3c] [Kd]
+Main pot $1.17 | Rake $0.06
+thescofflaw checks
+waveho bets $5.40 and is all-in
+thescofflaw folds
+Uncalled bet ($5.40) returned to waveho
+waveho does not show
+*** SUMMARY ***
+Total pot $1.17 | Rake $0.04 | JP Fee $0.02
+Board [Jc 3d 4s 3c Kd]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the River
+Seat 3: waveho did not show and won $1.17
+Seat 4: timetolive (small blind) folded on the Pre-Flop
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756467819 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:48:27 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($19.68)
+Seat 2: thescofflaw ($18.56)
+Seat 3: waveho ($6.57)
+Seat 4: timetolive ($8.54)
+Seat 5: blackchair ($6.48)
+Seat 6: BLoveYou ($10.00)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [3s 7h]
+TheIronSide raises $0.30 to $0.30
+thescofflaw folds
+waveho calls $0.30
+timetolive folds
+blackchair folds
+BLoveYou folds
+*** FLOP *** [5h 9h Qh]
+Main pot $0.72 | Rake $0.03
+TheIronSide checks
+waveho checks
+*** TURN *** [5h 9h Qh] [5c]
+Main pot $0.72 | Rake $0.03
+TheIronSide bets $0.18
+waveho calls $0.18
+*** RIVER *** [5h 9h Qh 5c] [8c]
+Main pot $1.06 | Rake $0.05
+TheIronSide bets $0.27
+waveho folds
+Uncalled bet ($0.27) returned to TheIronSide
+TheIronSide does not show
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.05
+Board [5h 9h Qh 5c 8c]
+Seat 1: TheIronSide did not show and won $1.06
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the River
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou (big blind) folded on the Pre-Flop
+
+Hand #1756469564 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:49:47 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($20.26)
+Seat 2: thescofflaw ($18.56)
+Seat 3: waveho ($6.09)
+Seat 4: timetolive ($8.54)
+Seat 5: blackchair ($6.43)
+Seat 6: BLoveYou ($9.90)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2d Td]
+thescofflaw folds
+waveho calls $0.10
+timetolive folds
+blackchair folds
+BLoveYou raises $0.35 to $0.40
+TheIronSide folds
+waveho calls $0.30
+*** FLOP *** [Jh 2h 9c]
+Main pot $0.86 | Rake $0.04
+BLoveYou bets $0.45
+waveho raises $0.90 to $0.90
+BLoveYou folds
+Uncalled bet ($0.45) returned to waveho
+waveho does not show
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.07 | JP Fee $0.02
+Board [Jh 2h 9c]
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho did not show and won $1.71
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+Seat 6: BLoveYou (small blind) folded on the Flop
+
+Hand #1756470545 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:50:32 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($20.16)
+Seat 2: thescofflaw ($18.56)
+Seat 3: waveho ($6.95)
+Seat 4: timetolive ($8.54)
+Seat 5: blackchair ($6.43)
+Seat 6: BLoveYou ($10.00)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [5c 5h]
+waveho calls $0.10
+timetolive folds
+blackchair raises $0.27 to $0.27
+BLoveYou raises $1.00 to $1.00
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.90
+blackchair calls $0.73
+*** FLOP *** [Td 3c Ts]
+Main pot $3.00 | Rake $0.15
+waveho checks
+blackchair checks
+BLoveYou bets $1.32
+waveho folds
+blackchair folds
+Uncalled bet ($1.32) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $3.00 | Rake $0.11 | JP Fee $0.04
+Board [Td 3c Ts]
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) folded on the Pre-Flop
+Seat 3: waveho folded on the Flop
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Flop
+Seat 6: BLoveYou did not show and won $3.00
+
+Hand #1756471984 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:51:37 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($20.11)
+Seat 2: thescofflaw ($18.46)
+Seat 3: waveho ($5.95)
+Seat 4: timetolive ($8.54)
+Seat 5: blackchair ($5.43)
+Seat 6: BLoveYou ($12.00)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2d 6c]
+timetolive folds
+blackchair folds
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho did not show and won $0.15
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756472569 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:52:04 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($20.11)
+Seat 2: thescofflaw ($18.41)
+Seat 3: waveho ($6.00)
+Seat 4: timetolive ($8.54)
+Seat 5: blackchair ($5.43)
+Seat 6: BLoveYou ($12.00)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Qc 9h]
+blackchair raises $0.28 to $0.28
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive folds
+Uncalled bet ($0.18) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) folded on the Pre-Flop
+Seat 4: timetolive (big blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.25
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756473050 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:52:26 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($20.11)
+Seat 2: thescofflaw ($18.41)
+Seat 3: waveho ($5.95)
+Seat 4: timetolive ($8.44)
+Seat 5: blackchair ($5.58)
+Seat 6: BLoveYou ($12.00)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [5h 6h]
+BLoveYou raises $0.25 to $0.25
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive raises $0.95 to $1.00
+blackchair folds
+BLoveYou calls $0.75
+*** FLOP *** [Th 8d 4d]
+Main pot $2.00 | Rake $0.10
+timetolive bets $0.72
+BLoveYou raises $1.44 to $1.44
+timetolive calls $0.72
+*** TURN *** [Th 8d 4d] [9c]
+Main pot $4.74 | Rake $0.24
+timetolive checks
+BLoveYou checks
+*** RIVER *** [Th 8d 4d 9c] [As]
+Main pot $4.74 | Rake $0.24
+timetolive checks
+BLoveYou checks
+*** SHOW DOWN ***
+Main pot $4.74 | Rake $0.24
+timetolive shows [Ah Qh] (a pair of Aces [As Ah Qh Th 9c])
+BLoveYou shows [3d 3s] (a pair of Threes [3s 3d As Th 9c])
+timetolive collected $4.74 from main pot
+*** SUMMARY ***
+Total pot $4.74 | Rake $0.16 | JP Fee $0.08
+Board [Th 8d 4d 9c As]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho (button) folded on the Pre-Flop
+Seat 4: timetolive (small blind) showed [Ah Qh] and won $4.74 with a pair of Aces [As Ah Qh Th 9c]
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+Seat 6: BLoveYou showed [3d 3s] and lost with a pair of Threes [3s 3d As Th 9c]
+
+Hand #1756474999 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:53:55 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($20.11)
+Seat 2: thescofflaw ($18.41)
+Seat 3: waveho ($5.95)
+Seat 4: timetolive ($10.74)
+Seat 5: blackchair ($5.48)
+Seat 6: BLoveYou ($9.56)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [7c Jc]
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.10
+timetolive raises $0.36 to $0.36
+blackchair folds
+BLoveYou folds
+waveho calls $0.26
+*** FLOP *** [Qd 9d 3h]
+Main pot $0.83 | Rake $0.04
+waveho checks
+timetolive bets $0.21
+waveho calls $0.21
+*** TURN *** [Qd 9d 3h] [4h]
+Main pot $1.23 | Rake $0.06
+waveho checks
+timetolive checks
+*** RIVER *** [Qd 9d 3h 4h] [3c]
+Main pot $1.23 | Rake $0.06
+waveho checks
+timetolive checks
+*** SHOW DOWN ***
+Main pot $1.23 | Rake $0.06
+waveho shows [Kc Jd] (a pair of Threes [3h 3c Kc Qd Jd])
+timetolive shows [Ks Ac] (a pair of Threes [3h 3c Ac Ks Qd])
+timetolive collected $1.23 from main pot
+*** SUMMARY ***
+Total pot $1.23 | Rake $0.04 | JP Fee $0.02
+Board [Qd 9d 3h 4h 3c]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho showed [Kc Jd] and lost with a pair of Threes [3h 3c Kc Qd Jd]
+Seat 4: timetolive (button) showed [Ks Ac] and won $1.23 with a pair of Threes [3h 3c Ac Ks Qd] with the kicker Ace
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou (big blind) folded on the Pre-Flop
+
+Hand #1756476165 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:54:49 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($20.11)
+Seat 2: thescofflaw ($18.41)
+Seat 3: waveho ($5.38)
+Seat 4: timetolive ($11.40)
+Seat 5: blackchair ($5.43)
+Seat 6: BLoveYou ($10.00)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Ad 2h]
+thescofflaw raises $0.30 to $0.30
+waveho calls $0.30
+timetolive folds
+blackchair calls $0.30
+BLoveYou folds
+TheIronSide folds
+*** FLOP *** [9c Jc Qh]
+Main pot $1.00 | Rake $0.05
+thescofflaw bets $0.69
+waveho folds
+blackchair folds
+Uncalled bet ($0.69) returned to thescofflaw
+thescofflaw does not show
+*** SUMMARY ***
+Total pot $1.00 | Rake $0.05
+Board [9c Jc Qh]
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw did not show and won $1.00
+Seat 3: waveho folded on the Flop
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Flop
+Seat 6: BLoveYou (small blind) folded on the Pre-Flop
+
+Hand #1756476739 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:55:36 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($20.01)
+Seat 2: thescofflaw ($19.11)
+Seat 3: waveho ($5.08)
+Seat 4: timetolive ($11.40)
+Seat 5: blackchair ($5.13)
+Seat 6: BLoveYou ($9.95)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [9d Jc]
+waveho calls $0.10
+timetolive folds
+blackchair raises $0.27 to $0.27
+BLoveYou folds
+TheIronSide folds
+thescofflaw calls $0.17
+waveho calls $0.17
+*** FLOP *** [7s Th 4s]
+Main pot $0.82 | Rake $0.04
+thescofflaw checks
+waveho bets $0.10
+blackchair calls $0.10
+thescofflaw calls $0.10
+*** TURN *** [7s Th 4s] [6d]
+Main pot $1.11 | Rake $0.05
+thescofflaw checks
+waveho bets $0.29
+blackchair folds
+thescofflaw calls $0.29
+*** RIVER *** [7s Th 4s 6d] [6h]
+Main pot $1.66 | Rake $0.08
+thescofflaw checks
+waveho bets $0.87
+thescofflaw folds
+Uncalled bet ($0.87) returned to waveho
+waveho does not show
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.06 | JP Fee $0.02
+Board [7s Th 4s 6d 6h]
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw (big blind) folded on the River
+Seat 3: waveho did not show and won $1.66
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Turn
+Seat 6: BLoveYou (button) folded on the Pre-Flop
+
+Hand #1756477388 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:56:45 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($19.96)
+Seat 2: thescofflaw ($18.45)
+Seat 3: waveho ($6.08)
+Seat 4: timetolive ($11.40)
+Seat 5: blackchair ($4.76)
+Seat 6: BLoveYou ($9.95)
+thescofflaw posts the small blind $0.05
+waveho posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Jd Qs]
+timetolive folds
+blackchair raises $0.28 to $0.28
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.18
+*** FLOP *** [5d 2s 9h]
+Main pot $0.58 | Rake $0.03
+waveho checks
+blackchair bets $0.15
+waveho calls $0.15
+*** TURN *** [5d 2s 9h] [3s]
+Main pot $0.87 | Rake $0.04
+waveho checks
+blackchair checks
+*** RIVER *** [5d 2s 9h 3s] [9s]
+Main pot $0.87 | Rake $0.04
+waveho bets $0.45
+blackchair folds
+Uncalled bet ($0.45) returned to waveho
+waveho does not show
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04
+Board [5d 2s 9h 3s 9s]
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: waveho did not show and won $0.87
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the River
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756477827 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:57:31 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($19.96)
+Seat 2: thescofflaw ($18.40)
+Seat 3: waveho ($6.52)
+Seat 4: timetolive ($11.40)
+Seat 5: blackchair ($4.33)
+Seat 6: BLoveYou ($9.95)
+waveho posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Kd 9d]
+blackchair raises $0.28 to $0.28
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho folds
+timetolive folds
+Uncalled bet ($0.18) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: waveho (small blind) folded on the Pre-Flop
+Seat 4: timetolive (big blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.25
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756478061 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:57:58 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($19.96)
+Seat 2: thescofflaw ($18.40)
+Seat 3: waveho ($6.47)
+Seat 4: timetolive ($11.30)
+Seat 5: blackchair ($4.48)
+Seat 6: BLoveYou ($9.95)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Qd Jd]
+BLoveYou folds
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.10
+timetolive folds
+blackchair checks
+*** FLOP *** [Qc Ts 3d]
+Main pot $0.24 | Rake $0.01
+blackchair bets $0.10
+waveho calls $0.10
+*** TURN *** [Qc Ts 3d] [5d]
+Main pot $0.43 | Rake $0.02
+blackchair bets $0.33
+waveho calls $0.33
+*** RIVER *** [Qc Ts 3d 5d] [3c]
+Main pot $1.06 | Rake $0.05
+blackchair bets $1.11
+waveho folds
+Uncalled bet ($1.11) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.05
+Board [Qc Ts 3d 5d 3c]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho (button) folded on the River
+Seat 4: timetolive (small blind) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $1.06
+Seat 6: BLoveYou folded on the Pre-Flop and did not bet
+
+Hand #1756478491 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:58:47 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($19.96)
+Seat 2: thescofflaw ($18.40)
+Seat 3: waveho ($5.94)
+Seat 4: timetolive ($11.25)
+Seat 5: blackchair ($5.01)
+Seat 6: BLoveYou ($9.95)
+blackchair posts the small blind $0.05
+BLoveYou posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [5s 8c]
+TheIronSide folds
+thescofflaw folds
+waveho calls $0.10
+timetolive raises $0.36 to $0.36
+blackchair folds
+BLoveYou raises $1.10 to $1.20
+waveho folds
+timetolive folds
+Uncalled bet ($0.84) returned to BLoveYou
+BLoveYou does not show
+*** SUMMARY ***
+Total pot $0.87
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho folded on the Pre-Flop and did not bet
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: BLoveYou did not show and won $0.87
+
+Hand #1756478951 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 19:59:35 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($19.96)
+Seat 2: thescofflaw ($18.40)
+Seat 3: waveho ($5.84)
+Seat 4: timetolive ($10.89)
+Seat 5: blackchair ($4.96)
+Seat 6: BLoveYou ($10.46)
+BLoveYou posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2d 2s]
+thescofflaw folds
+waveho calls $0.10
+timetolive raises $0.36 to $0.36
+blackchair calls $0.36
+BLoveYou calls $0.31
+TheIronSide calls $0.26
+waveho calls $0.26
+*** FLOP *** [7d 8s 7s]
+Main pot $1.71 | Rake $0.09
+BLoveYou bets $0.45
+TheIronSide calls $0.45
+waveho calls $0.45
+timetolive calls $0.45
+blackchair calls $0.45
+*** TURN *** [7d 8s 7s] [Js]
+Main pot $3.85 | Rake $0.20
+BLoveYou checks
+TheIronSide checks
+waveho bets $2.02
+timetolive calls $2.02
+blackchair folds
+BLoveYou calls $2.02
+TheIronSide folds
+*** RIVER *** [7d 8s 7s Js] [Tc]
+Main pot $9.61 | Rake $0.50
+BLoveYou bets $3.03
+waveho calls $3.01 and is all-in
+timetolive raises $8.06 to $8.06 and is all-in
+BLoveYou calls $4.60 and is all-in
+Uncalled bet ($0.43) returned to timetolive
+*** SHOW DOWN ***
+Main pot $18.18 | Rake $0.96
+Side pot(1) $8.79 | Rake $0.45
+waveho shows [Ks 7h] (three of a kind, Set of Sevens [7s 7h 7d Ks Js])
+timetolive shows [Jh Jc] (a full house, Jacks full of Sevens [Js Jh Jc 7s 7d])
+BLoveYou shows [9s As] (a flush, Ace high [As Js 9s 8s 7s])
+timetolive collected $18.18 from main pot
+timetolive collected $8.79 from side pot-1
+*** SUMMARY ***
+Total pot $26.97 | Rake $1.17 | JP Fee $0.24
+Board [7d 8s 7s Js Tc]
+Seat 1: TheIronSide (big blind) folded on the Turn
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: waveho showed [Ks 7h] and lost with three of a kind, Set of Sevens [7s 7h 7d Ks Js]
+Seat 4: timetolive showed [Jh Jc] and won $26.97 with a full house, Jacks full of Sevens [Js Jh Jc 7s 7d]
+Seat 5: blackchair (button) folded on the Turn
+Seat 6: BLoveYou (small blind) showed [9s As] and lost with a flush, Ace high [As Js 9s 8s 7s]
+
+Hand #1756480081 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:01:16 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($19.15)
+Seat 2: thescofflaw ($18.40)
+Seat 4: timetolive ($27.40)
+Seat 5: blackchair ($4.15)
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [2c Th]
+timetolive folds
+blackchair folds
+TheIronSide raises $0.25 to $0.30
+thescofflaw calls $0.20
+*** FLOP *** [Ts 5d Qd]
+Main pot $0.57 | Rake $0.03
+TheIronSide bets $0.15
+thescofflaw calls $0.15
+*** TURN *** [Ts 5d Qd] [3c]
+Main pot $0.86 | Rake $0.04
+TheIronSide bets $0.67
+thescofflaw raises $1.84 to $1.84
+TheIronSide folds
+Uncalled bet ($1.17) returned to thescofflaw
+thescofflaw does not show
+*** SUMMARY ***
+Total pot $2.13 | Rake $0.09 | JP Fee $0.02
+Board [Ts 5d Qd 3c]
+Seat 1: TheIronSide (small blind) folded on the Turn
+Seat 2: thescofflaw did not show and won $2.13
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+
+Hand #1756481389 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:02:23 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($18.03)
+Seat 2: thescofflaw ($19.41)
+Seat 4: timetolive ($27.40)
+Seat 5: blackchair ($4.15)
+thescofflaw posts the small blind $0.05
+timetolive posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [3s 3c]
+blackchair raises $0.28 to $0.28
+TheIronSide folds
+thescofflaw folds
+timetolive raises $27.30 to $27.40 and is all-in
+blackchair folds
+Uncalled bet ($27.12) returned to timetolive
+timetolive does not show
+*** SUMMARY ***
+Total pot $0.61
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 4: timetolive did not show and won $0.61
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+
+Hand #1756482596 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:03:23 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($18.03)
+Seat 2: thescofflaw ($19.36)
+Seat 4: timetolive ($27.73)
+Seat 5: blackchair ($3.87)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [5h 9c]
+TheIronSide folds
+thescofflaw folds
+timetolive raises $0.25 to $0.30
+blackchair calls $0.20
+*** FLOP *** [6d 8s 6c]
+Main pot $0.57 | Rake $0.03
+timetolive checks
+blackchair checks
+*** TURN *** [6d 8s 6c] [Js]
+Main pot $0.57 | Rake $0.03
+timetolive checks
+blackchair checks
+*** RIVER *** [6d 8s 6c Js] [Jh]
+Main pot $0.57 | Rake $0.03
+timetolive checks
+blackchair checks
+*** SHOW DOWN ***
+Main pot $0.57 | Rake $0.03
+timetolive shows [Td Ks] (two pair, Jacks and Sixs [Js Jh 6d 6c Ks])
+blackchair shows [5h 9c] (two pair, Jacks and Sixs [Js Jh 6d 6c 9c])
+timetolive collected $0.57 from main pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [6d 8s 6c Js Jh]
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 4: timetolive (small blind) showed [Td Ks] and won $0.57 with two pair, Jacks and Sixs [Js Jh 6d 6c Ks] with the kicker King
+Seat 5: blackchair (big blind) showed [5h 9c] and lost with two pair, Jacks and Sixs [Js Jh 6d 6c 9c]
+
+Hand #1756483692 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:04:15 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($18.03)
+Seat 2: thescofflaw ($19.36)
+Seat 3: sabvbaumgard ($10.00)
+Seat 4: timetolive ($28.00)
+Seat 5: blackchair ($3.57)
+blackchair posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+sabvbaumgard waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [Ks 4s]
+thescofflaw folds
+timetolive folds
+blackchair raises $0.20 to $0.25
+TheIronSide folds
+Uncalled bet ($0.15) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.20
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair did not show and won $0.20
+
+Hand #1756484365 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:04:46 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($17.93)
+Seat 2: thescofflaw ($19.36)
+Seat 3: sabvbaumgard ($10.00)
+Seat 4: timetolive ($28.00)
+Seat 5: blackchair ($3.67)
+Seat 6: mrFr1bergpro will be allowed to play after the button
+TheIronSide posts the small blind $0.05
+thescofflaw posts the big blind $0.10
+sabvbaumgard waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [3c 9d]
+timetolive folds
+blackchair folds
+TheIronSide folds
+thescofflaw does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: TheIronSide (small blind) folded on the Pre-Flop
+Seat 2: thescofflaw did not show and won $0.15
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair (button) folded on the Pre-Flop
+
+Hand #1756484954 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:05:13 UTC
+Cumming 6-max Seat #1 is the button
+Seat 1: TheIronSide ($17.88)
+Seat 2: thescofflaw ($19.41)
+Seat 3: sabvbaumgard ($10.00)
+Seat 4: timetolive ($28.00)
+Seat 5: blackchair ($3.67)
+Seat 6: mrFr1bergpro ($10.00)
+thescofflaw posts the small blind $0.05
+sabvbaumgard posts the big blind $0.10
+mrFr1bergpro waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [2d Kd]
+timetolive folds
+blackchair raises $0.22 to $0.22
+TheIronSide folds
+thescofflaw folds
+sabvbaumgard calls $0.12
+*** FLOP *** [Tc 8c Qd]
+Main pot $0.47 | Rake $0.02
+sabvbaumgard checks
+blackchair checks
+*** TURN *** [Tc 8c Qd] [3d]
+Main pot $0.47 | Rake $0.02
+sabvbaumgard bets $0.30
+blackchair calls $0.30
+*** RIVER *** [Tc 8c Qd 3d] [4d]
+Main pot $1.04 | Rake $0.05
+sabvbaumgard bets $0.80
+blackchair raises $1.94 to $1.94
+sabvbaumgard folds
+Uncalled bet ($1.14) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $2.56 | Rake $0.09 | JP Fee $0.04
+Board [Tc 8c Qd 3d 4d]
+Seat 1: TheIronSide (button) folded on the Pre-Flop
+Seat 2: thescofflaw (small blind) folded on the Pre-Flop
+Seat 3: sabvbaumgard (big blind) folded on the River
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $2.56
+
+Hand #1756487408 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:07:07 UTC
+Cumming 6-max Seat #2 is the button
+Seat 1: TheIronSide ($17.88)
+Seat 2: thescofflaw ($19.36)
+Seat 3: sabvbaumgard ($8.68)
+Seat 4: timetolive ($28.00)
+Seat 5: blackchair ($4.91)
+Seat 6: mrFr1bergpro ($10.00)
+sabvbaumgard posts the small blind $0.05
+timetolive posts the big blind $0.10
+mrFr1bergpro waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [6h 5d]
+blackchair folds
+TheIronSide folds
+thescofflaw folds
+sabvbaumgard raises $0.20 to $0.25
+timetolive folds
+Uncalled bet ($0.15) returned to sabvbaumgard
+sabvbaumgard does not show
+*** SUMMARY ***
+Total pot $0.20
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw (button) folded on the Pre-Flop
+Seat 3: sabvbaumgard did not show and won $0.20
+Seat 4: timetolive (big blind) folded on the Pre-Flop
+Seat 5: blackchair folded on the Pre-Flop and did not bet
+
+Hand #1756488760 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:08:08 UTC
+Cumming 6-max Seat #3 is the button
+Seat 1: TheIronSide ($17.88)
+Seat 2: thescofflaw ($19.36)
+Seat 3: sabvbaumgard ($8.78)
+Seat 4: timetolive ($27.90)
+Seat 5: blackchair ($4.91)
+Seat 6: mrFr1bergpro ($10.00)
+timetolive posts the small blind $0.05
+blackchair posts the big blind $0.10
+mrFr1bergpro waits for big blind
+*** HOLE CARDS ***
+Dealt to blackchair [7d 9h]
+TheIronSide folds
+thescofflaw folds
+sabvbaumgard raises $0.20 to $0.20
+timetolive raises $0.80 to $0.85
+blackchair folds
+sabvbaumgard folds
+Uncalled bet ($0.65) returned to timetolive
+timetolive does not show
+*** SUMMARY ***
+Total pot $0.50
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: sabvbaumgard (button) folded on the Pre-Flop
+Seat 4: timetolive did not show and won $0.50
+Seat 5: blackchair (big blind) folded on the Pre-Flop
+
+Hand #1756489873 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:08:57 UTC
+Cumming 6-max Seat #4 is the button
+Seat 1: TheIronSide ($17.88)
+Seat 2: thescofflaw ($19.36)
+Seat 3: sabvbaumgard ($8.58)
+Seat 4: timetolive ($28.20)
+Seat 5: blackchair ($4.81)
+Seat 6: mrFr1bergpro ($10.00)
+blackchair posts the small blind $0.05
+mrFr1bergpro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [Kc 3h]
+TheIronSide folds
+thescofflaw folds
+sabvbaumgard raises $0.25 to $0.25
+timetolive folds
+blackchair folds
+mrFr1bergpro folds
+Uncalled bet ($0.15) returned to sabvbaumgard
+sabvbaumgard does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide folded on the Pre-Flop and did not bet
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: sabvbaumgard did not show and won $0.25
+Seat 4: timetolive (button) folded on the Pre-Flop
+Seat 5: blackchair (small blind) folded on the Pre-Flop
+Seat 6: mrFr1bergpro (big blind) folded on the Pre-Flop
+
+Hand #1756491401 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:10:09 UTC
+Cumming 6-max Seat #5 is the button
+Seat 1: TheIronSide ($17.88)
+Seat 2: thescofflaw ($19.36)
+Seat 3: sabvbaumgard ($8.73)
+Seat 4: timetolive ($28.20)
+Seat 5: blackchair ($4.76)
+Seat 6: mrFr1bergpro ($10.00)
+mrFr1bergpro posts the small blind $0.05
+TheIronSide posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [4h Jd]
+thescofflaw folds
+sabvbaumgard folds
+timetolive folds
+blackchair raises $0.28 to $0.28
+mrFr1bergpro folds
+TheIronSide folds
+Uncalled bet ($0.18) returned to blackchair
+blackchair does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: TheIronSide (big blind) folded on the Pre-Flop
+Seat 2: thescofflaw folded on the Pre-Flop and did not bet
+Seat 3: sabvbaumgard folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair did not show and won $0.25
+Seat 6: mrFr1bergpro (small blind) folded on the Pre-Flop
+
+Hand #1756492315 - Holdem(No Limit) - $0.05/$0.10 - 2023/06/24 20:10:51 UTC
+Cumming 6-max Seat #6 is the button
+Seat 1: TheIronSide ($17.78) is sitting out
+Seat 2: thescofflaw ($19.36)
+Seat 3: sabvbaumgard ($8.73)
+Seat 4: timetolive ($28.20)
+Seat 5: blackchair ($4.91)
+Seat 6: mrFr1bergpro ($10.00)
+thescofflaw posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to blackchair [9s Ks]
+sabvbaumgard folds
+timetolive folds
+blackchair raises $0.25 to $0.25
+mrFr1bergpro folds
+thescofflaw raises $0.75 to $0.85
+blackchair calls $0.60
+*** FLOP *** [Qh Ts 2s]
+Main pot $1.62 | Rake $0.08
+thescofflaw bets $1.13
+blackchair raises $4.06 to $4.06 and is all-in
+thescofflaw calls $2.93
+*** TURN *** [Qh Ts 2s] [9d]
+Main pot $9.33 | Rake $0.49
+*** RIVER *** [Qh Ts 2s 9d] [Ah]
+Main pot $9.33 | Rake $0.49
+*** SHOW DOWN ***
+Main pot $9.33 | Rake $0.49
+thescofflaw shows [As Qc] (two pair, Aces and Queens [As Ah Qh Qc Ts])
+blackchair shows [9s Ks] (a pair of Nines [9s 9d Ah Ks Qh])
+thescofflaw collected $9.33 from main pot
+*** SUMMARY ***
+Total pot $9.33 | Rake $0.33 | JP Fee $0.16
+Board [Qh Ts 2s 9d Ah]
+Seat 2: thescofflaw (big blind) showed [As Qc] and won $9.33 with two pair, Aces and Queens [As Ah Qh Qc Ts]
+Seat 3: sabvbaumgard folded on the Pre-Flop and did not bet
+Seat 4: timetolive folded on the Pre-Flop and did not bet
+Seat 5: blackchair showed [9s Ks] and lost with a pair of Nines [9s 9d Ah Ks Qh]
+Seat 6: mrFr1bergpro (button) folded on the Pre-Flop
+
