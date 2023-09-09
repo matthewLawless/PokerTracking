@@ -1,7 +1,14 @@
 package Parsing;
 import java.io.*;
+import java.nio.file.Paths;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.*;
 import HandSessionAbstraction.*;
+
 
 public class SessionParser  {
 
@@ -54,7 +61,10 @@ public class SessionParser  {
      */
     public CashSession cashSessionParse(File f) throws FileNotFoundException{
 
-        CashSession c = null;
+        CashSession c = new CashSession();
+
+        
+
 
         ArrayList<Hand> hList = new ArrayList<Hand>();
         ArrayList<String> handsAsStrings = new ArrayList<String>();
@@ -89,19 +99,60 @@ public class SessionParser  {
 
 
         }
+
+        
         
         //feed them to the hand parser;
         HandParser hp = new HandParser();
         for (String s : handsAsStrings){
 
-            hList.add(hp.parseHand(s));
+            c.addHand(hp.parseHand(s, c));
 
 
         }
 
+        
+        
+
 
         //find the owner
+        //end of find owner
 
+
+
+        //JDBC STORING SESSION_AS_STRING
+
+        
+
+        final String DB_URL = "jdbc:mysql://localhost:3306";
+        final String USER = "root";
+        final String PASS = "GodDid";
+         try(Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
+        
+        
+        Statement stmt = conn.createStatement();)
+        {
+            String s = "use matthewsDB";
+            stmt.executeUpdate(s);
+            String sql = "INSERT INTO session (session_as_string, num_of_hands, owner, session_number) values(?, ?, ?, ?)";
+            PreparedStatement statement = conn.prepareStatement(sql);
+            InputStream is = new FileInputStream(f);
+            statement.setBlob(1, is);
+            statement.setInt(2, c.getHands().size());
+            statement.setString(3, "matt");
+            statement.setInt(4, c.getCount());
+            statement.executeUpdate();
+            System.out.println("Insertion successful . . . . . ");
+            conn.close();
+
+
+
+        } 
+        catch( SQLException e){
+
+            e.printStackTrace();
+
+        }
 
         return c;
 

@@ -383,7 +383,7 @@ public abstract class Hand {
      * 
      * @return
      */
-    private int getHandID(){
+    public int getHandID(){
 
         return handID;
 
@@ -419,7 +419,7 @@ public abstract class Hand {
 
     }
 
-    private String getDate(){
+    public String getDate(){
 
         return date;
 
@@ -431,7 +431,7 @@ public abstract class Hand {
 
     }
 
-    private String getTime(){
+    public String getTime(){
 
         return time;
 
@@ -444,7 +444,7 @@ public abstract class Hand {
     }
 
 
-    private String getTableName(){
+    public String getTableName(){
 
         return tableName;
 
@@ -456,7 +456,7 @@ public abstract class Hand {
 
     }
 
-    private int getNumberOfSeatsAtTable(){
+    public int getNumberOfSeatsAtTable(){
 
         return numberOfSeatsAtTable;
 

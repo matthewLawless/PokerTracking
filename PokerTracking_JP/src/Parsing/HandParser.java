@@ -1,4 +1,11 @@
 package Parsing;
+import java.io.FileInputStream;
+import java.io.InputStream;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.*;
 import HandSessionAbstraction.*;;
 public class HandParser {
@@ -9,7 +16,7 @@ public class HandParser {
 
     }
 
-    protected Hand parseHand(String s){
+    protected Hand parseHand(String s, Session sesh){
 
         Hand h;
         //check if hand is tourney hand or if it is
@@ -326,6 +333,38 @@ public class HandParser {
                     }
 
                 }
+
+
+        //JDCB connection for 'hands' table
+        final String DB_URL = "jdbc:mysql://localhost:3306";
+        final String USER = "root";
+        final String PASS = "GodDid";
+         try(Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
+        
+        
+        Statement stmt = conn.createStatement();)
+        {
+            String st = "use matthewsDB";
+            stmt.executeUpdate(st);
+            String sql = "INSERT INTO hands (hand_as_string, session, hand_ID) values(?, ?, ?)";
+            PreparedStatement statement = conn.prepareStatement(sql);
+            
+            statement.setString(1, s);
+            
+            statement.setInt(2, sesh.getCount());
+            statement.setInt(3, h.getHandID());
+            statement.executeUpdate();
+            System.out.println("Insertion successful . . . . . ");
+            conn.close();
+
+
+
+        } 
+        catch( SQLException e){
+
+            e.printStackTrace();
+
+        }
     
 
 

@@ -12,7 +12,8 @@ public class CashSession extends Session{
         // String tempBB = this.stakes.substring(splitIndex + 2);
         // this.SB = Double.parseDouble(tempSB);
         // this.BB = Double.parseDouble(tempBB);
-
     }
+
+public CashSession(){}
 
 }

@@ -2,11 +2,12 @@ package HandSessionAbstraction;
 import java.util.ArrayList;
 public class Session {
     
+    private int session_count = 0;
 
     /**
      * list of all hands played during this session (txt file)
      */
-    protected ArrayList<Hand> allHands;
+    protected ArrayList<Hand> allHands = new ArrayList<Hand>();
 
     /**
      * list of all players that played in hands during this session
@@ -28,7 +29,7 @@ public class Session {
     //w date and time
     public Session(){
 
-        
+        session_count++;
 
     }
 
@@ -52,7 +53,7 @@ public class Session {
      * adds a hand to the session
      * @param h
      */
-    private void addHand(Hand h){
+    public void addHand(Hand h){
 
         allHands.add(h);
 
@@ -72,6 +73,12 @@ public class Session {
     private ArrayList<Player> getAllPlayers(){
 
         return allPlayers;
+
+    }
+
+    public int getCount(){
+
+        return session_count;
 
     }
 
